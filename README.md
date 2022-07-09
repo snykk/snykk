@@ -1,9 +1,11 @@
 
+
 <h1 align="center">Hello, friends! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35"> </h1>
 
 <div align="center"> <a  href="https://github.com/snykk"><img  src="https://readme-typing-svg.herokuapp.com?color=25F723&background=000000&center=true&vCenter=true&width=260&height=60&lines=Welcome+to+my+github..."></a>
 </div>
 
+```
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ 20 yo guy
@@ -20,7 +22,8 @@
 ├─◈ <a href="https://www.linkedin.com/in/moh-najib-fikri">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
-  
+  ```
+
 
 ## ⚙️ GitHub Analytics
 

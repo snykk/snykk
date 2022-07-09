@@ -5,24 +5,24 @@
 <div align="center"> <a  href="https://github.com/snykk"><img  src="https://readme-typing-svg.herokuapp.com?color=25F723&background=000000&center=true&vCenter=true&width=260&height=60&lines=Welcome+to+my+github..."></a>
 </div>
 
-
-┌──┤ WHOAMI ├─────────▰▰▰\
-│\
-├─▣ 20 yo guy\
-├─▣ College Student\
-├─▣ Web dev and cyber security enthusiast\
-│\
+<pre>
+┌──┤ WHOAMI ├─────────▰▰▰
+│
+├─▣ 20 yo guy
+├─▣ College Student
+├─▣ Web dev and cyber security enthusiast
+│
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰\
-│\
-├─◈ <a href="mailto:najibfikri13@gmail.com">Gmail</a>\
-├─◈ <a href="https://www.instagram.com/_najibfikri/">Instagram</a>\
-├─◈ <a href="https://t.me/snykk">Telegram</a>\
-├─◈ <a href="https://www.linkedin.com/in/moh-najib-fikri">LinkedIn</a>\
-│\
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="mailto:najibfikri13@gmail.com">Gmail</a>
+├─◈ <a href="https://www.instagram.com/_najibfikri/" target="_blank">Instagram</a>
+├─◈ <a href="https://t.me/snykkk" target="_blank">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/moh-najib-fikri" target="_blank">LinkedIn</a>
+│
 └───────────────────────────────▰▰▰
-
+</pre>
 
 ## ⚙️ GitHub Analytics
 

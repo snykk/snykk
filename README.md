@@ -77,5 +77,5 @@
 ### GitHub Activity 💻
 
 <p align="center">
-<a  href="https://github.com/snykk"><img  alt="Snykk Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=snykk&custom_title=Snykk%20Contribution%20Graph&bg_color=000000&color=00FF00&line=00FFFF&point=FFFFFF&area_color=FFF000&area=true"  /></a>
+<a  href="https://github.com/snykk"><img  alt="Snykk Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=snykk&custom_title=Snykk%20Contribution%20Graph&bg_color=000000&color=fd428d&line=431c36&point=f7d747&area_color=FFF000&area=true"  /></a>
 </p>

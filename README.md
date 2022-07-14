@@ -3,28 +3,28 @@
 <pre>
 <div align="center"> <a  href="https://github.com/snykk"><img  src="https://readme-typing-svg.herokuapp.com?color=000000&background=f6f8fa&center=true&vCenter=true&width=300&height=60&lines=Welcome+to+my+github..."></a>
 </div>
-┌──┤ WHOAMI ├─────────▰▰▰
+┌──┤ WHOAMI ├─────────────────────▰▰▰
 │
 ├─▣ College Student
 ├─▣ Web dev and cyber security enthusiast
 │
-└───────────────────────────────▰▰▰
+└────────────────────────────────────────────────────▰▰▰
 
 ┌──┤ OPERATING SYSTEM ├─────▰▰▰
 │
 ├─◈ Windows
 ├─◈ Kali Linux
 │
-└───────────────────────────────▰▰▰
+└──────────────────────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
+┌──┤ SOCIAL ├────────▰▰▰
 │
 ├─◈ <a href="mailto:najibfikri13@gmail.com">Gmail</a>
 ├─◈ <a href="https://www.instagram.com/_najibfikri/" target="_blank">Instagram</a>
 ├─◈ <a href="https://t.me/snykkk" target="_blank">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/moh-najib-fikri" target="_blank">LinkedIn</a>
 │
-└───────────────────────────────▰▰▰
+└─────────────────────────────────────▰▰▰
 </pre>
 
 ---

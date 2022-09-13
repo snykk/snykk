@@ -21,7 +21,7 @@
 │
 ├─◈ <a href="mailto:najibfikri13@gmail.com">Gmail</a>
 ├─◈ <a href="https://www.instagram.com/_najibfikri/" target="_blank">Instagram</a>
-├─◈ <a href="https://t.me/snykkk" target="_blank">Telegram</a>
+├─◈ <a href="https://t.me/itsme_snykk" target="_blank">Telegram</a>
 ├─◈ <a href="https://www.linkedin.com/in/moh-najib-fikri" target="_blank">LinkedIn</a>
 │
 └─────────────────────────────────────▰▰▰
@@ -63,11 +63,17 @@
 <div>
 
 <p align="center"> 
-<a  href="https://github.com/snykk/"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snykk&langs_count=10&theme=radical&layout=compact&hide_border=true"  alt="snykk Top Langs"/></a>
+<a  href="https://github-readme-stats.vercel.app/api/top-langs/?username=snykk&langs_count=10&theme=radical&layout=compact&hide_border=true"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=snykk&langs_count=10&theme=radical&layout=compact&hide_border=true"  alt="snykk Top Langs"/></a>
 </p>
 
-<p align="center"> <a  href="https://github.com/snykk/">
-<img  width="49%"  src="https://github-readme-stats.vercel.app/api?username=snykk&show_icons=true&theme=radical&hide_border=true"  /> <img  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=snykk&theme=radical&hide_border=true"  />
+<p align="center">
+
+<a  href="https://github-readme-stats.vercel.app/api?username=snykk&show_icons=true&theme=radical&hide_border=true">
+  <img  width="49%"  src="https://github-readme-stats.vercel.app/api?username=snykk&show_icons=true&theme=radical&hide_border=true"  />
+</a>
+
+<a  href="https://github-readme-streak-stats.herokuapp.com/?user=snykk&theme=radical&hide_border=true">
+  <img  width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=snykk&theme=radical&hide_border=true"  />
 </a>
 </p>
 
@@ -78,5 +84,5 @@
 ### GitHub Activity 💻
 
 <p align="center">
-<a  href="https://github.com/snykk"><img  alt="Snykk Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=snykk&custom_title=Snykk%20Contribution%20Graph&bg_color=000000&color=fd428d&line=431c36&point=f7d747&area_color=FFF000&area=true"  /></a>
+<a  href="https://activity-graph.herokuapp.com/graph?username=snykk&custom_title=Snykk%20Contribution%20Graph&bg_color=000000&color=fd428d&line=431c36&point=f7d747&area_color=FFF000&area=true"><img  alt="Snykk Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=snykk&custom_title=Snykk%20Contribution%20Graph&bg_color=000000&color=fd428d&line=431c36&point=f7d747&area_color=FFF000&area=true"  /></a>
 </p>

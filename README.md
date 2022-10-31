@@ -6,7 +6,7 @@
 - 🤷🏻‍♂️ Pronouns He/Him
 - ☕ Currently learning about Go and backend stuff
 - 👨‍💻 CTF is Fum!
-
+ 
 #### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚒𝚜𝚝𝚎𝚖
 
 ![](https://img.shields.io/badge/Kali-Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2e8ecd)
@@ -22,7 +22,7 @@
 </a>
 <a href="https://t.me/itsme_snykk"><image src="https://img.shields.io/badge/Telegram-%2339c7f3.svg?style=flat&logo=telegram&logoColor=white">
 </a>
-
+  
 #### 𝙷𝚊𝚟𝚎 𝙻𝚎𝚊𝚛𝚗𝚎𝚍 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -46,6 +46,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
+  
 ### 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ![Metrics](https://metrics.lecoq.io/snykk?template=classic&isocalendar=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=jupyter%20notebook&languages.limit=10&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=public&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FJakarta&config.octicon=true)
+
+<div>
+   <img src="https://visitor-badge.laobi.icu/badge?page_id=snykk"/>
+</div>

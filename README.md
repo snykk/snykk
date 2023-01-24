@@ -51,7 +51,7 @@
 ![Docker](https://img.shields.io/badge/Docker%20-%231c90ed.svg?&style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Redis](https://img.shields.io/badge/Redis-%23d12b1f.svg?style=flat&logo=redis&logoColor=white)
-![Mongo](https://img.shields.io/badge/MongoDB-%234ca449.svg?style=flat&logo=mongodb&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-%23f7f7f7.svg?style=flat&logo=mongodb&logoColor=%23429543)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23005a83.svg?style=flat&logo=mysql&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)

@@ -11,12 +11,12 @@
    <img src="https://komarev.com/ghpvc/?username=snykk"/>
 </div>
  
-#### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚒𝚜𝚝𝚎𝚖
+#### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖
 
 ![](https://img.shields.io/badge/Kali-Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2e8ecd)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
 
-#### 𝙷𝚘𝚠 𝚃𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
+#### 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
 
 <a href="https://www.linkedin.com/in/moh-najib-fikri/"><image src="https://img.shields.io/badge/LinkedIn-%230059ef.svg?style=flat&logo=linkedin&logoColor=white">
 </a>

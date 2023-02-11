@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2338 Commits
+                            2340 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.15472659396178" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="236.15472659396178" y="0" width="61.79633233295287" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="297.9510589269147" y="0" width="48.6345360079187" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="346.58559493483335" y="0" width="47.89310044025094" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="394.47869537508427" y="0" width="26.55777437464867" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="421.03646974973293" y="0" width="20.8623181521309" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="441.8987879018639" y="0" width="10.722781073114549" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="452.6215689749784" y="0" width="7.378431025021596" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="235.3935275845319" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="235.3935275845319" y="0" width="61.5971438278711" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="296.990671412403" y="0" width="49.1496063717743" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="346.14027778417733" y="0" width="48.47777200337281" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="394.61804978755015" y="0" width="26.54401135329391" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="421.162061140844" y="0" width="20.795072511356082" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="441.9571336522001" y="0" width="10.688218265717422" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="452.64535191791754" y="0" width="7.354648082082452" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -243,15 +243,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1321,6 +1321,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">snykk/grader-assignments-fe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#108e8cf</div>
+                                        <div class="message">react exercise 7</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/grader-assignments-fe</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#18e444a</div>
+                                        <div class="message">react exercise 6</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">snykk/go-rest-boilerplate</span>
                                     </div>
                                 </div>
@@ -1369,46 +1409,6 @@
                                     <div class="commit">
                                         <div class="sha">#7921d0f</div>
                                         <div class="message">create README.md files and add coverage rules in makefile</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">snykk/go-rest-boilerplate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0d05bb0</div>
-                                        <div class="message">Create LICENSE</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">snykk/go-rest-boilerplate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a00c1cc</div>
-                                        <div class="message">Create LICENSE.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1504,7 +1504,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Feb 2023, 16:12:35 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Feb 2023, 17:13:03 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

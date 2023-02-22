@@ -4,12 +4,20 @@
 
 - 🙎🏻‍♂️ I’m a College Student
 - 🤷🏻‍♂️ Pronouns He/Him
-- ☕ Currently learning about Go and backend stuff
+- ☕ Currently ~~learning about Go~~ trying to comeback with Laravel and backend stuff
 - 👨‍💻 CTF is Fum!
 
 <div>
    <img src="https://komarev.com/ghpvc/?username=snykk"/>
 </div>
+ 
+### 𝙷𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝𝚜
+- [Go Rest Boilerplate](https://github.com/snykk/go-rest-boilerplate) | My template as a starting point for building RESTful APIs in Go
+- [Golib Backend](https://github.com/snykk/golib-backend) | Clean Architecture implementation in Go
+- [Kanban App](https://github.com/snykk/kanban-app) | A Kanban app built with Go & mux
+- [Ayummy](https://github.com/snykk/ayummy) | Mobile app build with Flutter
+- [Laracoffee](https://github.com/snykk/laracoffee) | An E Commerce website for coffee shop, developed using Laravel 9 and Bootstrap CSS
+- [X Sinema](https://github.com/snykk/x_sinema) | An E Commerce website built with ASP.NET Core MVC and Bootstrap CSS
  
 #### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖
 

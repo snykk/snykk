@@ -4,7 +4,7 @@
 
 - 🙎🏻‍♂️ I’m a College Student
 - 🤷🏻‍♂️ Pronouns He/Him
-- ☕ Currently ~~learning about Go~~ trying to comeback with Laravel and backend stuff
+- ☕ Currently ~~learning about Go and backend stuff~~ trying to comeback with Laravel 
 - 👨‍💻 CTF is Fum!
 
 <div>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1268" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1168" class="">
     <defs>
         <style/>
     </defs>
@@ -1338,6 +1338,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#974d07f</div>
+                                        <div class="message">Combination Sum II - medium</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/Competitive-Programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#57089bc</div>
                                         <div class="message">Combination Sum - medium</div>
                                     </div>
@@ -1400,50 +1420,6 @@
                                     <div class="commit">
                                         <div class="sha">#e0557cf</div>
                                         <div class="message">Kyu5 - Move Zeros To The End</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">snykk/Competitive-Programming</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b948f23</div>
-                                        <div class="message">Jump Game - medium</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4e5ea39</div>
-                                        <div class="message">Best Time to Buy and Sell Stock - easy</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cf1f89b</div>
-                                        <div class="message">Rotate Image - medium</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffb4721</div>
-                                        <div class="message">Jump Game II - medium</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e79f54</div>
-                                        <div class="message">Wildcard Matching - hard</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b87ae4f</div>
-                                        <div class="message">Multiply Strings - medium</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#db76d04</div>
-                                        <div class="message">Count and Say - medium</div>
                                     </div>
                                 </div>
                             </section>
@@ -1539,7 +1515,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2023, 14:12:02 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Mar 2023, 15:18:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

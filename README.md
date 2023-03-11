@@ -15,6 +15,7 @@
 - [Go Rest Boilerplate](https://github.com/snykk/go-rest-boilerplate) | My template as a starting point for building RESTful APIs in Go
 - [Golib Backend](https://github.com/snykk/golib-backend) | Clean Architecture implementation in Go
 - [Kanban App](https://github.com/snykk/kanban-app) | A Kanban app built with Go & mux
+- [Fiber Redis Shortener](https://github.com/snykk/fiber-redis-shortener) | URL Shortener built with Go Fiber & Redis
 - [Ayummy](https://github.com/snykk/ayummy) | Mobile app build with Flutter
 - [Laracoffee](https://github.com/snykk/laracoffee) | An E Commerce website for coffee shop, developed using Laravel 9 and Bootstrap CSS
 - [X Sinema](https://github.com/snykk/x_sinema) | An E Commerce website built with ASP.NET Core MVC and Bootstrap CSS

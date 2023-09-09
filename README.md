@@ -4,7 +4,8 @@
 
 - 🙎🏻‍♂️ I’m a College Student
 - 🤷🏻‍♂️ Pronouns He/Him
-- ☕ Currently ~~learning about Go and backend stuff~~ trying to comeback with Laravel 
+- ☕ I'm on a journey to master the art of infosec
+- 🚀 Feel free to chat with me about web dev (escpecially backend stuff), and cybersec anytime!
 - 👨‍💻 CTF is Fum!
 
 <div>

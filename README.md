@@ -21,12 +21,12 @@
 - [Laracoffee](https://github.com/snykk/laracoffee) | An E Commerce website for coffee shop, developed using Laravel 9 and Bootstrap CSS
 - [X Sinema](https://github.com/snykk/x_sinema) | An E Commerce website built with ASP.NET Core MVC and Bootstrap CSS
  
-#### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚂𝚢𝚜𝚝𝚎𝚖
+#### 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚗𝚐 𝚜𝚢𝚜𝚝𝚎𝚖
 
 ![](https://img.shields.io/badge/Kali-Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=2e8ecd)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0073d4)
 
-#### 𝙷𝚘𝚠 𝚝𝚘 𝚁𝚎𝚊𝚌𝚑 𝙼𝚎
+#### 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 
 <a href="https://www.linkedin.com/in/moh-najib-fikri/"><image src="https://img.shields.io/badge/LinkedIn-%230059ef.svg?style=flat&logo=linkedin&logoColor=white">
 </a>
@@ -39,7 +39,7 @@
 <a href="https://discordapp.com/users/998541525317332994"><image src="https://img.shields.io/badge/Discord-%235662f6.svg?style=flat&logo=discord&logoColor=white">
 </a>
 
-#### 𝙷𝚊𝚟𝚎 𝙻𝚎𝚊𝚛𝚗𝚎𝚍 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)

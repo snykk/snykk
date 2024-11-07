@@ -1,9 +1,8 @@
 # 𝙷𝚎𝚕𝚕𝚘, 𝙵𝚛𝚒𝚎𝚗𝚍𝚜! <img  src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="35">
 
-#### I'm a Web Dev and Cyber Security Enthusiast live in Indonesia.
+#### I'm a Software Developer and Cyber Security Enthusiast live in Indonesia.
 
-- 🙎🏻‍♂️ I’m a College Student
-- 🤷🏻‍♂️ Pronouns He/Him
+- 🙎🏻‍♂️ I’m 22 yo
 - ☕ I'm on a journey to master the art of infosec
 - 🚀 Feel free to chat with me about web dev (escpecially backend stuff), and cybersec anytime!
 - 👨‍💻 CTF is Fum!
@@ -57,6 +56,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?style=flat&logo=nuxt.js&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-010114?logo=react&logoColor=cyan)
+![NextJS](https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)

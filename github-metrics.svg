@@ -1322,6 +1322,52 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fb0f5ba</div>
+                                        <div class="message">feat: add admin endpoint '/transactions' to view all wallet transactions
+
+- Introduced a new endpoint '/transactions' accessible by admin users to retrieve transaction histories across all wallets.
+- Supports improved oversight and monitoring of wallet activities by admins."</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/transaction-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#30a15c7</div>
+                                        <div class="message">refactor: use constants for transaction types
+
+- Created a new constants file 'constant.transaction.go' to centralize transaction type definitions.
+- Replaced hardcoded transaction type strings with constants in 'Deposit' and 'Withdraw' use case methods, enhancing maintainability and reducing potential errors from string mismatches.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/transaction-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#74a7985</div>
                                         <div class="message">feat: add admin wallet overview and user transaction history endpoints
 
@@ -1386,56 +1432,6 @@
   - If the transaction is a purchase (with a product), quantity must be greater than 0.
 - Ensured proper handling of transaction types: 'deposit', 'withdraw', and 'purchase'.
 - Removed unused 'status' and 'description' fields from the schema for now.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">snykk/transaction-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5c575be</div>
-                                        <div class="message">feat: add 'withdraw' and 'deposit' endpoints in transaction module
-
-- Added 'withdraw' endpoint for users to withdraw funds from their wallet
-- Added 'deposit' endpoint for users to deposit funds into their wallet
-- Implemented transaction logic to update wallet balances
-- Ensured transaction types (withdraw, deposit) are properly tracked
-- Both endpoints require user authorization and wallet existence</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">snykk/transaction-api</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#197d9e0</div>
-                                        <div class="message">feat: add 'info' endpoint in wallet module for users to view their balance
-
-- Added 'info' endpoint to allow users to retrieve their wallet balance
-- Ensures each user can access only their own balance
-- Requires that users have an existing wallet to use this endpoint</div>
                                     </div>
                                 </div>
                             </section>
@@ -1531,7 +1527,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2024, 02:11:41 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2024, 03:15:50 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

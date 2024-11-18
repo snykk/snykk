@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1383" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1366" class="">
     <defs>
         <style/>
     </defs>
@@ -2331,6 +2331,65 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">snykk/Laracoffee</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bf1c4fb</div>
+                                        <div class="message">Merge pull request #10 from snykk/dependabot/composer/laravel/framework-9.52.17
+
+Bump laravel/framework from 9.22.1 to 9.52.17</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c6cc1a</div>
+                                        <div class="message">Bump laravel/framework from 9.22.1 to 9.52.17
+
+Bumps [laravel/framework](https://github.com/laravel/framework) from 9.22.1 to 9.52.17.
+- [Release notes](https://github.com/laravel/framework/releases)
+- [Changelog](https://github.com/laravel/framework/blob/11.x/CHANGELOG.md)
+- [Commits](https://github.com/laravel/framework/compare/v9.22.1...v9.52.17)
+
+---
+updated-dependencies:
+- dependency-name: laravel/framework
+  dependency-type: direct:production
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/Competitive-Programming</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b4684b2</div>
+                                        <div class="message">Search a 2D Matrix - medium</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">snykk/SpringReviewHub</span>
                                     </div>
@@ -2445,90 +2504,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">snykk/SpringReviewHub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f168c2f</div>
-                                        <div class="message">feat: enhance security and error handling for authentication flow
-
-- Added custom exception handling for invalid authorization header (InvalidAuthHeaderException) and invalid token (InvalidTokenException) in GlobalExceptionHandler to provide more specific error messages for unauthorized access.
-- Integrated CustomAuthenticationEntryPoint for handling 401 Unauthorized errors with detailed JSON responses in SecurityConfig.
-- Updated JWTAuthenticationFilter to validate and extract tokens with enhanced error handling for missing or malformed authorization headers, throwing custom exceptions where appropriate.
-- Refined access control logic to exclude authentication for specific endpoints (e.g., login, register) in JWTAuthenticationFilter.
-- Improved response messages for forbidden access by customizing BaseResponse failure messages in both CustomAccessDeniedHandler and CustomAuthenticationEntryPoint.
-- General exception handling refactored to capture unexpected errors and provide detailed internal server error responses.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20758db</div>
-                                        <div class="message">feat: add custom access denied handler for forbidden access
-
-- Implemented CustomAccessDeniedHandler to return a custom JSON response with a 403 status code for access denied errors.
-- Updated SecurityConfig to integrate the custom access denied handler into the security filter chain.
-- refactor: modify BaseResponse to include JSON serialization of null values.
-- fix: handle AccessDeniedException in GlobalExceptionHandler.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c34fc7</div>
-                                        <div class="message">feat: enhance input validation and exception handling across controllers
-
-- Added `@Valid` annotations to validate request bodies in `AuthController` and `MovieController`.
-- Applied `@Validated` at the class level for both controllers to enforce validation constraints.
-- Introduced a new method in `GlobalExceptionHandler` to handle `MethodArgumentNotValidException`, returning structured validation errors.
-- Enhanced `BaseResponse` class with an overloaded `failure` method to include additional error data.
-- Updated `MovieRequest` with validation constraints for all fields to ensure robust data integrity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3937887</div>
-                                        <div class="message">feat: Enhance exception handling and improve authentication logic
-
-- Added custom exceptions: AuthenticationException, UserNotFoundException, and UsernameAlreadyTakenException.
-- Updated GlobalExceptionHandler to handle new exceptions with appropriate HTTP status codes (BAD_REQUEST, UNAUTHORIZED, and NOT_FOUND).
-- Refactored AuthUseCaseImpl to use custom exceptions instead of generic RuntimeException:
-  - Throw UsernameAlreadyTakenException for duplicate username during registration.
-  - Throw AuthenticationException for invalid credentials during login.
-  - Throw UserNotFoundException when a requested user is not found.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#340a4b5</div>
-                                        <div class="message">feat: Add user seeder and refactor mappers
-
-- Refactored AuthController to use AuthMapper for converting between request and domain objects.
-- Removed toDomain() methods from LoginRequest and RegistrationRequest classes, replacing them with mapping functions in AuthMapper.
-- Added AuthMapper with methods to convert LoginRequest and RegistrationRequest to UserDomain, and UserDomain to RegistrationResponse.
-- Updated MovieMapper to include new methods for converting MovieRequest to MovieDomain and MovieDomain to MovieResponse.
-- Removed static 'fromDomain' method from RegistrationResponse to clean up the class and follow best practices.
-- Refactored MovieMapper and UserMapper to use chaining setters for improved readability and ease of use.
-- Updated UserRepositoryImpl and MovieRepositoryImpl to use the refactored mappers for better separation of concerns and code organization.
-- Simplified mapping logic in UserRepositoryImpl and UserDomain classes by utilizing the new mappers.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Made
-                                        <span class="repo">snykk/transaction-api</span>
-                                        public
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2620,7 +2595,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Nov 2024, 02:13:00 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Nov 2024, 03:17:38 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

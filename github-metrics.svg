@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1383" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1333" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.average{color:#fb8c00}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.deleted{color:#da3633}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2321,6 +2321,139 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <div class="sha">#69a77c6</div>
+                                        <div class="message">feat: implement Song module with CRUD operations and rating
+
+- Added SongController with endpoints to create, update, delete, and retrieve songs.
+- Created SongService to handle CRUD operations and rating functionality.
+- Introduced DTOs for song requests, responses, and ratings.
+- Implemented custom SongException for error handling.
+- Updated ts-node version to 10.9.2.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">snykk/nestjs-music-playlist-api</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">snykk/nestjs-music-playlist-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2b7fa6a</div>
+                                        <div class="message">feat: implement Song module with CRUD operations and rating
+
+- Added SongController with endpoints to create, update, delete, and retrieve songs.
+- Created SongService to handle CRUD operations and rating functionality.
+- Introduced DTOs for song requests, responses, and ratings.
+- Implemented custom SongException for error handling.
+- Updated ts-node version to 10.9.2.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b8e4b51</div>
+                                        <div class="message">feat: add SongSeeder for seeding songs into the database
+
+- Implemented `SongSeeder` to seed a list of predefined songs into the database.
+- Added a `main-seeder.ts` script to initialize the seeding process by invoking the `SongSeeder`.
+- Integrated `SongSeeder` into the `PrismaModule` to ensure it can be used globally.
+- The seeded songs include popular tracks from artists like Metallica, Skillet, Avenged Sevenfold, Dream Theater, and Pierce the Veil.
+- The songs are seeded with relevant metadata such as title, artist, album, and file path for MP3 files.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1c17fe2</div>
+                                        <div class="message">feat: add unique constraint on userId and songId in song_ratings table
+
+- Added a unique constraint to the `song_ratings` table for the combination of `userId` and `songId`.
+- This ensures that a user can rate a song only once, preventing duplicate ratings for the same song by the same user.
+- The migration creates a unique index `"song_ratings_userId_songId_key"` covering the `userId` and `songId` columns.
+
+Note: If there are existing duplicate values in the table, this migration will fail.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#56aa9da</div>
+                                        <div class="message">feat: Implement playlist management functionality
+
+- Added new `PlaylistModule` for handling playlists, including creation, song management, and searching.
+- Introduced `PlaylistController` with the following endpoints:
+  - `POST /api/playlists`: Creates a new playlist for the authenticated user.
+  - `GET /api/playlists`: Retrieves all playlists for the authenticated user.
+  - `POST /api/playlists/:id/songs`: Adds a song to a playlist.
+  - `DELETE /api/playlists/:id/songs/:songId`: Removes a song from a playlist.
+  - `GET /api/playlists/search`: Searches playlists by name and genre.
+- Created `PlaylistService` to manage business logic for playlist operations.
+- Added composite unique constraint on `SongRating` model for `userId` and `songId`.
+- Updated `AuthService` payload to use `user.id` for the username field in JWT.
+- Defined `PlaylistRequest`, `SongRequest`, and `RatingRequest` DTOs for data transfer.
+- Created custom `PlaylistException` for error handling in playlist operations.
+- Integrated new functionality into the `AppModule`.
+
+This commit introduces a comprehensive playlist management system with the ability to create, manage, and search playlists, as well as add/remove songs to/from playlists.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6ed5f6a</div>
+                                        <div class="message">feat: implement global exception handling with CustomExceptionFilter
+
+- Added `CustomExceptionFilter` in `src/common/http-exception.filter.ts` to handle exceptions globally.
+  - Returns a consistent error response format with `success: false` and error message.
+  - Handles HTTP and internal server errors.
+- Integrated `CustomExceptionFilter` in `src/main.ts` using `app.useGlobalFilters()`.
+  - Ensures all exceptions are processed through the custom filter.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#016ad48</div>
+                                        <div class="message">feat: implement authentication module with JWT
+
+- Added dependencies: @nestjs/jwt, @nestjs/passport, bcrypt, passport, passport-jwt, and their respective types.
+- Introduced `AuthModule` with registration and login endpoints.
+- Added `AuthController` to handle authentication routes.
+- Created `AuthService` for user registration and login logic, including password hashing and JWT generation.
+- Developed `JwtStrategy` for token validation and `JwtAuthGuard` for route protection.
+- Integrated `PrismaService` for database interactions through `PrismaModule`.
+- Removed `AppController`, `AppService`, and related test files to streamline the application structure.
+
+This commit establishes the foundation for user authentication and prepares the application for secure access control.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3346b83</div>
+                                        <div class="message">feat: add Prisma integration with PostgreSQL</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">snykk/nestjs-music-playlist-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <div class="sha">#092a5a5</div>
                                         <div class="message">feat: add nestjs starter project</div>
                                     </div>
@@ -2337,155 +2470,6 @@
                                         Created new
                       repository
                                         <span class="repo">snykk/nestjs-restapi</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
-                                        <span class="repo">snykk/nestjs-restapi</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">snykk/SpringReviewHub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f063be6</div>
-                                        <div class="message">feat: add role-based access control for review endpoints
-
-- Restricted POST, PUT, and DELETE operations on `/api/reviews` and its subpaths to users with the `reviewer` authority.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#353883f</div>
-                                        <div class="message">fix: allow users to create new reviews for a movie after deletion
-
-- Updated `existsByUserIdAndMovieId` query in `ReviewJpaRepository` to exclude soft-deleted reviews.
-- Ensures users can create new reviews for the same movie (movieId) after deleting their previous review.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a181b4</div>
-                                        <div class="message">feat: add endpoint to delete reviews by movie ID
-
-- Added a new endpoint in ReviewController to delete reviews associated with a specific movie ID, enhancing functionality for users.
-- Updated IReviewUseCase to include `deleteReviewByMovieId` method, aligning interface with the new feature.
-- Implemented `deleteReviewByMovieId` in ReviewUseCaseImpl, including:
-  - Validation to ensure the review belongs to the requesting user.
-  - Soft deletion of the review.
-  - Trigger to refresh the associated movie's rating.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">snykk/SpringReviewHub</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ac61046</div>
-                                        <div class="message">refactor: move query operations to JPA interface for better consistency and fix cascading soft delete for reviews
-
-- Moved all query operations from the repository layer to the JPA interface, improving consistency by leveraging JPA's built-in query methods.
-- Fixed cascading behavior: when a review is deleted, the associated movie's rating is refreshed to ensure data consistency.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#435b4ea</div>
-                                        <div class="message">feat: implement cascade soft-delete for reviews when movie is deleted
-
-- Implemented cascading soft delete for reviews associated with a movie when the movie is deleted.
-- Updated `deleteMovie` in `MovieUseCaseImpl` to fetch associated reviews and mark them as soft deleted using `IReviewRepository`.
-- Added transactional support to ensure atomic operations for cascading deletions.
-- Injected `IReviewRepository` dependency into `MovieUseCaseImpl` for review management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#991277c</div>
-                                        <div class="message">fix: hide deleted reviews for reviewer role when fetching movies with includeReviews and correct typos in `deletedAt` property
-
-- Fixed a typo in the `deletedAt` property across `ReviewDomain`, `ReviewMapper`, and entity mapper classes.
-- Updated `MovieUseCaseImpl` to filter out reviews with non-null `deletedAt` for users with the "Reviewer" role.
-- Ensured proper handling of `deletedAt` in all relevant domain, mapper, and use case layers.
-- Improved data consistency and role-specific behavior in review filtering logic.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2d8a2f</div>
-                                        <div class="message">feat: add role parameter to support soft delete in movie search functionality
-
-- Updated `MovieController` to include `role` parameter when invoking the `searchMovies` method.
-- Modified `IMovieRepository`, `IMovieUseCase`, and their respective implementations to include `role` as a parameter in the `searchMovies` method.
-- Enhanced `MovieJpaRepository` with a query filter for `role` to exclude soft-deleted records for non-admin users.
-- Adjusted `MovieRepositoryImpl` to pass `role` to the repository query.
-- Ensured proper mapping of role-based filtering in movie search workflows.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#303ed50</div>
-                                        <div class="message">feat: implement role-based review handling and extend response mapping
-
-- Added role-based filtering for review retrieval in ReviewController.
-- Updated ReviewMapper to handle role-specific response types, including a new ReviewExtendedResponse for admins.
-- Enhanced MovieMapper and UserMapper to use role-specific mapping for associated reviews.
-- Introduced ReviewExtendedResponse to include admin-specific properties like `deletedAt`.
-- Modified IReviewRepository to support role-based queries.
-- Adjusted all related endpoints in ReviewController for role-sensitive behavior.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f7f5683</div>
-                                        <div class="message">feat: implement cascade soft-delete for reviews when user is deleted
-
-- Added cascade soft-delete behavior for associated reviews in `UserUseCaseImpl` to ensure that when a user is deleted, their reviews are also soft-deleted.
-- Updated `ReviewUseCaseImpl` to handle review deletion more effectively in conjunction with user deletion.
-- Ensured movie ratings are refreshed appropriately when reviews are deleted via cascade soft-delete.
-- Refined user deletion logic to propagate changes through related entities, ensuring consistency across the system.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3da8a0</div>
-                                        <div class="message">refactor: detach business logic from repository layer
-
-- Renamed `storeReviewAndUpdateMovieRating` to `saveReview` to unify review persistence operations for both create and update actions.
-- Removed redundant `updateReviewAndUpdateMovieRating` method, consolidating its functionality into `saveReview`.
-- Added transactional support in `ReviewUseCaseImpl` for `createReview` and `updateReview` methods.
-- Implemented `refreshMovieRating` in `ReviewUseCaseImpl` to manage movie rating updates based on average review ratings.
-- Introduced `getAverageRatingByMovieId` in `IReviewRepository` for movie rating calculation.
-- Adjusted `ReviewRepositoryImpl` to handle detached entities and simplify review persistence logic.
-- Updated Javadoc comments to reflect refactored methods and their responsibilities.
-- Minor cleanup in `Review` entity class, including commented annotations for debugging purposes.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0a85c4d</div>
-                                        <div class="message">feat: add support for soft deletion in Review entity and domain
-
-- Added `deletedAt` property to `ReviewDomain` and `Review` classes.
-- Implemented `setDeletedAt` method for setting the deletion timestamp in both domain and entity.
-- Updated `ReviewMapper` to handle `deletedAt` field during mapping between entity and domain.
-- Enabled cascade operations for `@ManyToOne` relationships in `Review` entity.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2581,7 +2565,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2024, 01:21:12 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2024, 02:13:37 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

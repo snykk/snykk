@@ -43,14 +43,16 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%233776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript%20-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML_5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS_3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat&logo=laravel&logoColor=white)
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
@@ -67,10 +69,13 @@
 ![Docker](https://img.shields.io/badge/Docker%20-%231c90ed.svg?&style=flat&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Redis](https://img.shields.io/badge/Redis-%23d12b1f.svg?style=flat&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat&logo=rabbitmq&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=flat&logo=elasticsearch&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-%23f7f7f7.svg?style=flat&logo=mongodb&logoColor=%23429543)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23005a83.svg?style=flat&logo=mysql&logoColor=white)
 ![Microsoft Sql Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927.svg?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ### 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜 <img alt="GIF" height="25" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 

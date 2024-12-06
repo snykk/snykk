@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1333" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2314,6 +2314,131 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">snykk/microservices-library-management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b000bd7</div>
+                                        <div class="message">feat(api_gateway): integrate LoanService with new routes and handlers
+
+- Implemented gRPC client for LoanService (`clients.grpc.loan_service.go`) with methods for creating, fetching, updating, and listing loans.
+- Defined `LoanRequest`, `LoanResponse`, and `LoanStatusUpdateRequest` DTOs for loan-related data transfer in the `datatransfers` package.
+- Created `LoanHandler` with the following API handlers:
+  - `CreateLoanHandler`
+  - `GetLoanHandler`
+  - `UpdateLoanStatusHandler`
+  - `ListLoansHandler`
+- Added loan-related routes and registered them in the API gateway (`server.go`) for seamless access to LoanService operations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#758ab17</div>
+                                        <div class="message">feat(loan_service): integrate gRPC server with loan functionality
+
+- Added loan-service definition in docker-compose.yml with environment variables and network configuration.
+- Configured loan-db service in docker-compose.yml, including PostgreSQL settings and data initialization.
+- Created SQL schema `loan-init.sql` for loan service database, including loans table and triggers for updated_at column.
+- Added Dockerfile for building and running loan-service.
+- Initialized main.go for loan-service, setting up gRPC server and PostgreSQL connection.
+- Added go.mod and go.sum for dependency management in loan-service.
+- Updated .gitignore to exclude loan-service binary.
+- Configured initial loan-service with repository, service layer, and gRPC handlers.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51738fb</div>
+                                        <div class="message">feat(api_gateway): Add support for including books in category and author responses
+
+- Updated `AuthorResponse` and `CategoryResponse` data transfer objects to include optional `Books` field.
+- Modified `AuthorHandler` and `CategoryHandler` to fetch associated books when the `includeBooks` query parameter is set to `true`.
+- Updated route constructors (`NewAuthorRoute` and `NewCategoryRoute`) to pass `BookClient` for fetching related books.
+- Adjusted dependency injection for `AuthorHandler` and `CategoryHandler` to include `BookClient`.
+- Updated `server.go` to reflect the additional `BookClient` parameter in routes.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be377f8</div>
+                                        <div class="message">feat(api_gateway, book_service): add methods to fetch books by author and category
+
+- Implemented GetBooksByAuthorId and GetBooksByCategoryId methods in book client
+- Added new handlers for retrieving books by author and category IDs in book handler
+- Updated gRPC server to support new GetBooksByAuthorId and GetBooksByCategoryId services
+- Added new proto messages for GetBooksByAuthorRequest and GetBooksByCategoryRequest</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#febb486</div>
+                                        <div class="message">chore: update user proto files</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#74e894b</div>
+                                        <div class="message">feat(book_service): handle author/category not found in CreateBook
+
+- Updated `grpc_server.book.go` to validate author and category existence using gRPC clients.
+- Added error handling to return `NOT_FOUND` status if the specified author or category does not exist.
+- Integrated `authorClient` and `categoryClient` in `main.go` for gRPC communication with author and category services.
+- Included `author_service.proto` and `category_service.proto` for defining gRPC services.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3b438f7</div>
+                                        <div class="message">feat(api_gateway): enhance book handler to support author and category details
+
+- Refactored `NewBookRoute` to accept `authorClient` and `categoryClient` as parameters.
+- Updated `BookHandler` to include additional clients and logic for fetching author and category details.
+- Modified `datatransfers.BookResponse` to support nested `Author` and `Category` objects.
+- Updated routes for book, author, category, and user services to align with the new parameters.
+- Adjusted gRPC client responses to use pointers for `AuthorId` and `CategoryId`.
+- Added optional fields for `created_at` and `updated_at` in `datatransfers.AuthorResponse`.
+- Introduced `includeAuthor` and `includeCategory` query parameters to enable nested data fetching.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c47428</div>
+                                        <div class="message">feat(api_gateway): add user service integration with GRPC client
+
+- Implemented UserClient for GRPC communication with the user service.
+- Created new route and handler for fetching user data.
+- Added new user-related methods for fetching user details by ID, email, and listing users.
+- Updated the user service proto definitions for listing users.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7372ceb</div>
+                                        <div class="message">feat(user_service): implement gRPC server
+
+- Added GRPC_PORT and DSN environment variables to docker-compose.yml
+- Set up gRPC server in main.go with PostgreSQL connection
+- Created user repository, service, and gRPC server layers
+- Implemented gRPC methods to retrieve all users, and retrieve user by ID and email.
+- Added models for user record and request handling
+- Updated Go module dependencies for sqlx and pq</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1dfd3da</div>
+                                        <div class="message">chore: add SQL seed files for data population in authors, books, categories, and users table
+
+- Added `book-seeder.sql`, `author-seeder.sql`, `category-seeder.sql`, and `user-seeder.sql` for initializing data.
+- Updated `docker-compose.yml` to include new seed files for the respective databases (book-db, author-db, category-db, user-db).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5ab1507</div>
+                                        <div class="message">feat(api_gateway): add authentication and authorization middleware to routes
+
+- Introduced `AuthMiddleware` for token validation and role-based authorization.
+- Integrated `Authenticate` middleware to validate tokens across all routes.
+- Added `HasAuthority` middleware to enforce role-based access (admin-only actions for example).
+- Updated `ValidateTokenResponse` in `datatransfers` to include user roles.
+- Modified `datatransfers.ResponseError` to include an `error` field instead of storing error messages in `data`.
+- Updated routes for authors, books, and categories to include authentication for all users and role-based authorization for admin actions.
+- Adjusted the gRPC client and server to support role validation in `ValidateToken`.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 3 commits in
                                         <span class="repo">snykk/microservices-library-management</span>
                                     </div>
@@ -2430,44 +2555,6 @@ Usage:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">snykk/microservices-library-management</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8e73e2b</div>
-                                        <div class="message">feat(deployments): add database initialization scripts and integrate with Docker Compose
-
-- Added `book-init.sql`, `author-init.sql`, `category-init.sql`, and `user-init.sql` for database initialization.
-- Scripts create tables with necessary columns, triggers, and update timestamp functionality.
-- Updated `docker-compose.yml` to mount SQL initialization scripts for `book-db`, `author-db`, `category-db`, and `user-db` services.
-- Ensured UUID extension is enabled in each database.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f91803</div>
-                                        <div class="message">feat(category_service): add timestamps to category response and gRPC definitions
-
-- Add `CreatedAt` and `UpdatedAt` fields to the `CategoryResponse` struct in `datatransfers` and serialize them as Unix timestamps.
-- Update gRPC client methods (`CreateCategory`, `GetCategory`, `ListCategories`, `UpdateCategory`) to include timestamps in responses.
-- Modify gRPC server methods to return `CreatedAt` and `UpdatedAt` fields from the category service.
-- Update `category_service.proto` to define `createdAt` and `updatedAt` as Unix timestamp fields in the `Category` message.
-- Rename variables for better clarity in `CreateCategory` and `UpdateCategory` server methods.
-- Ensure all methods propagate and handle the timestamp fields correctly across API boundaries.
-
-This change improves tracking and consistency for category entities by including timestamps in all layers of the system.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2559,7 +2646,7 @@ This change improves tracking and consistency for category entities by including
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2024, 08:15:42 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2024, 10:00:09 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

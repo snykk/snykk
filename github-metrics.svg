@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1516" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2314,6 +2314,62 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">snykk/microservices-library-management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1609446</div>
+                                        <div class="message">feat(loan_service): validate book existence in CreateLoan
+
+- Added `clients.grpc.book.go` to implement a gRPC client for the BookService.
+- Introduced a new `BookClient` interface for retrieving book details.
+- Updated `CreateLoan` in `grpc_server.loan.go` to validate the existence of a book using the new BookClient.
+- Modified `NewLoanGRPCServer` to accept `BookClient` as a dependency.
+- Added `book_service.proto` to define the BookService gRPC interface for communication between services.
+- Ensured that loans cannot be created for non-existent books by returning a `NotFound` error when validation fails.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d5fdfc</div>
+                                        <div class="message">feat(book_service): validate author and category existence in UpdateBook
+
+- Added validation to check if the author exists using `GetAuthor` before updating a book.
+- Added validation to check if the category exists using `GetCategory` before updating a book.
+- Return `NotFound` error if either the author or category does not exist.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7bc4324</div>
+                                        <div class="message">feat(api_gateway, loan_service): add filtering loans by status
+
+- Introduced `GetUserLoansByStatus` and `GetLoansByStatus` methods in LoanClient, LoanHandler, and gRPC server to allow filtering loans by status.
+- Updated `loan_service.proto` to include new RPC definitions for filtering loans by status.
+- Added database queries in the repository layer to fetch loans by status for both individual users and all users.
+- Modified API endpoints in `handlers.loan.go` to support filtering with optional `status` query parameter.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3900e6</div>
+                                        <div class="message">feat: separate loan listing endpoints for user and admin
+
+- Added `ListUserLoans` method to differentiate between user-specific and admin loan listing functionalities.
+- Updated `LoanClient` interface and implementation to include `ListUserLoans` and admin-specific `ListLoans`.
+- Modified gRPC service definitions to add `ListUserLoans` RPC and updated `ListLoans` for admin use.
+- Adjusted HTTP handlers to use `ListUserLoansHandler` and restricted `ListLoansHandler` to admin routes.
+- Updated repository to implement distinct methods for user-specific (`ListUserLoans`) and all loans (`ListLoans`).
+- Refactored services to align with the new methods and use cases.
+- Ensured backward compatibility by maintaining `ListLoans` functionality for admins.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 11 commits in
                                         <span class="repo">snykk/microservices-library-management</span>
                                     </div>
@@ -2513,48 +2569,6 @@ Usage:
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">snykk/microservices-library-management</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e94683f</div>
-                                        <div class="message">feat: add author management functionality to API Gateway
-- Added `AuthorClient` implementation for communication with the Author Service via gRPC.
-- Integrated author routes in API Gateway to support CRUD operations for authors:
-  - POST `/authors` to create a new author.
-  - GET `/authors` to fetch all authors.
-  - GET `/authors/:id` to fetch a author by ID.
-  - PUT `/authors/:id` to update a author.
-  - DELETE `/authors/:id` to delete a author.
-- Created `datatransfers.AuthorRequest` and `datatransfers.AuthorResponse` structs for data mapping.
-- Added `AuthorHandler` to handle API requests related to authors.
-- Registered author routes in `api_gateway/internal/routes/routes.author.go`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#690588e</div>
-                                        <div class="message">feat(author_service): integrate gRPC server with database and implement author management
-
-- Introduced gRPC server for author management with methods for Create, Get, List, Update, and Delete authors.
-- Created a new repository layer for managing authors in the database.
-- Added service layer to handle business logic for author operations.
-- Refactored the `main.go` file to initialize the gRPC server, database connection, and register the AuthorService server.
-- Defined models for AuthorRequest and AuthorRecord for better data handling.
-- Added PostgreSQL database connection with error handling and repository methods for author CRUD operations.
-- Renamed and reorganized directories for better project structure.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2646,7 +2660,7 @@ Usage:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Dec 2024, 10:37:26 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2024, 11:19:55 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

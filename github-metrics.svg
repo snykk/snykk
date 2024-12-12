@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1359" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1526" class="">
     <defs>
         <style/>
     </defs>
@@ -2247,6 +2247,148 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 11 commits in
+                                        <span class="repo">snykk/microservices-library-management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ed38aca</div>
+                                        <div class="message">chore: add environment variables for service configurations and logging
+
+- Set common environment variables for all services, including:
+  - APP_PORT, READ_TIMEOUT, WRITE_TIMEOUT for service communication.
+  - AUTH_SERVICE_URL, AUTHOR_SERVICE_URL, BOOK_SERVICE_URL, etc. for inter-service communication.
+  - LOGGER_WORKER_TYPE, LOGGER_WORKER_NUM, LOGGER_WORKER_BUFFER_SIZE for logging configuration.
+  - Added Redis and JWT configuration for auth-service.
+  - Configured DSN for database connections across services.
+  - Added log path and MongoDB configuration for logger-service.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b600baf</div>
+                                        <div class="message">feat(user_service): implement centralized configuration management via `AppConfig`
+
+- Added new `configs` package to centralize application configuration loading via `viper`.
+- Introduced `InitializeAppConfig` function to load and validate configuration values from environment variables.
+- Replaced hardcoded environment variable accesses in `main.go` with the new configuration values.
+- Updated the logger initialization to support multiple worker types based on configuration.
+- Modified the gRPC server to dynamically bind to the configured port.
+- Added `viper` dependency for environment variable management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e4df67</div>
+                                        <div class="message">feat(mailer_service): implement centralized configuration management via `AppConfig`
+
+- Introduced `configs` package to handle app configuration loading.
+- Replaced environment variable retrieval with configuration file using `viper`.
+- Moved RabbitMQ URL and email credentials file paths into configuration.
+- Added error handling to ensure required config values are loaded.
+- Updated main service initialization to load configurations during startup.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#54e1fbc</div>
+                                        <div class="message">feat(logger_service): implement centralized configuration management via `AppConfig`
+
+- Introduced a new `configs` package for centralized configuration management.
+- Moved RabbitMQ, MongoDB, and log path configurations to environment variables loaded via `viper`.
+- Replaced hardcoded values in `main.go` with values fetched from `configs.AppConfig`.
+- Added initialization logic in the `init()` function to load configurations at the start of the application.
+- Updated `go.mod` to include the `spf13/viper` package for environment variable handling.
+- Created a new `configs.app.go` file to define and initialize the application configuration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44bda7a</div>
+                                        <div class="message">feat(loan_service): implement centralized configuration management via `AppConfig`
+
+- Added a new `configs` package to handle configuration loading using Viper for the loan service.
+- Moved environment variable parsing for GRPC_PORT, DSN, RABBITMQ_URL, and logger settings into the new config package.
+- Refactored `main.go` to load configurations from the `configs` package, improving maintainability and flexibility.
+- Updated logger initialization to support both single and multiple worker types based on the new configuration.
+- Introduced constants for RabbitMQ exchange and queue names, including new queues for loan and return notifications.
+- Refactored loan and return notification publishing to use the newly defined constants for RabbitMQ.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb49f39</div>
+                                        <div class="message">feat(category_service): implement centralized configuration management via `AppConfig`
+
+- Introduced a new `configs` package to centralize app configuration loading using `viper`.
+- Moved configuration handling (e.g., GRPC_PORT, RABBITMQ_URL) to the `InitializeAppConfig` function.
+- Replaced hardcoded environment variable fetching in `main.go` with values from `AppConfig`.
+- Updated RabbitMQ and DB connection handling to use `AppConfig` values.
+- Refactored logger initialization to use dynamic worker types based on configuration.
+- Replaced `os.Getenv` in `main.go` with the `viper` configuration approach for better scalability.
+- Added missing `viper` dependency in `go.mod` for configuration handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#938960a</div>
+                                        <div class="message">feat(book_service): implement centralized configuration management via `AppConfig`
+
+- Add `configs` package for centralized configuration management (`configs.app.go`).
+- Replace `os.Getenv` calls with `configs.AppConfig` for better structure and maintainability.
+- Introduce support for single and multiple logger worker types with configurable options.
+- Update `main.go` to initialize application configurations during startup.
+- Refactor database and RabbitMQ connection initialization to use centralized configuration.
+- Adjust gRPC server setup to utilize dynamic address formatting from configuration.
+- Add `constants/constant.logger.go` to define logger worker type constants.
+- Enhance logging setup to support multiple worker configurations and buffer size settings.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d3ab18b</div>
+                                        <div class="message">feat(author_service): implement centralized configuration management via `AppConfig`
+
+- Add `configs` package for centralized configuration handling (`configs.app.go`).
+- Replace `os.Getenv` calls with `configs.AppConfig` for better maintainability.
+- Add support for single and multiple logger worker types using configuration.
+- Update `main.go` to initialize app configurations during startup.
+- Introduce `constants/constant.logger.go` for logger worker type constants.
+- Refactor database and RabbitMQ connection initialization to use centralized configs.
+- Adjust gRPC server setup to utilize formatted address from configs.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#716237e</div>
+                                        <div class="message">feat(auth_service): implement centralized configuration management via `AppConfig`
+
+- Introduce `configs` package for centralized configuration handling.
+- Replace `os.Getenv` calls with values from `configs.AppConfig`.
+- Add `configs.app.go` to define and initialize application configuration.
+- Support single and multiple logger worker types based on configuration.
+- Update `jwt.go` to use `time.Duration` for token expiration settings.
+- Refactor `redis.go` to handle expiration directly as `time.Duration`.
+- Add constants for logger worker types in `constants/constant.logger.go`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#72d2bed</div>
+                                        <div class="message">feat(api_gateway): implement centralized configuration management via `AppConfig`
+
+- Introduced a new `configs` package to centralize application configurations.
+- Added `InitializeAppConfig` function to load and validate environment variables.
+- Updated server and gRPC client setup to use `AppConfig` for configuration values (e.g., ports, timeouts, service URLs, RabbitMQ settings).
+- Enhanced logger initialization to support both single and multiple worker types with configurable buffer size.
+- Refactored redundant logging code to use a streamlined logging method.
+- Simplified and modularized constants related to RabbitMQ and logger worker types.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0e0bd3</div>
+                                        <div class="message">feat: enhance graceful shutdown handling
+
+- Added AMQP connection, RabbitMQ publisher and logger instance to App struct
+- Implemented environment variable check for RABBITMQ_URL
+- Refactored to use named variables for RabbitMQ connection and publisher
+- Implemented deferred cleanup for AMQP connection, RabbitMQ publisher, and logger in Run method
+- Improved shutdown process with longer timeout and more detailed log messages
+- Updated RabbitMQ publisher's Close method to return an error</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 9 commits in
                                         <span class="repo">snykk/microservices-library-management</span>
                                     </div>
@@ -2557,26 +2699,6 @@ This service aims to centralize and simplify log management across microservices
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">snykk/go-microservices-udemy-course</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#aac86ba</div>
-                                        <div class="message">refactor: update dependencies in broker-service and simplify template handling in  render func front-end</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2636,7 +2758,7 @@ This service aims to centralize and simplify log management across microservices
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Dec 2024, 01:22:52 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Dec 2024, 02:13:21 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

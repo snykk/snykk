@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1349" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1466" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.track .name{font-size:14px;line-height:14px;height:14px;font-weight:600;width:387px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.number,.token.string{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2309,6 +2309,185 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 9 commits in
+                                        <span class="repo">snykk/microservices-library-management</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#17d4d56</div>
+                                        <div class="message">chore(docs, deployments): update README and docker-compose configurations
+
+- README Update:
+  - Marked the Logger Service as complete, indicating improvements to logging across services, including internal logs.
+
+- Docker Compose Update:
+  - Removed volume mapping for the `/app/logs` directory from the `api_gateway` service, simplifying the configuration.
+  - Added `RABBITMQ_URL` environment variable to multiple services (`book-service`, `author-service`, `category-service`, `user-service`) to ensure RabbitMQ connectivity for messaging and notifications.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#83c4af2</div>
+                                        <div class="message">feat(loan_service): enhance logging, RabbitMQ integration, and gRPC metadata handling
+
+- Logger Service Improvements:
+  - Introduced a `Logger` service with two modes: single-worker and multiple-worker configurations, for handling log processing concurrently.
+  - Each log message includes detailed information such as request ID, service name, log level, caller details, error messages, and additional metadata to improve traceability and debugging.
+  - Logs are published to RabbitMQ exchanges/queues to ensure centralized log collection and integration with other services.
+  - Implemented graceful shutdown mechanism for logger workers to ensure clean resource release.
+
+- RabbitMQ Integration:
+  - Declared RabbitMQ exchanges for logging and email notifications to ensure efficient communication between services.
+  - Integrated a RabbitMQ publisher into the loan service to handle log publishing and email notifications asynchronously.
+  - Enhanced log handling by ensuring that logs are processed by multiple worker goroutines, improving throughput and reducing latency.
+
+- gRPC Metadata Handling:
+  - Added utility functions to extract metadata from gRPC requests, focusing on retrieving request IDs and caller locations.
+  - Introduced a `GetLocation()` function to capture the file and line number for better debugging and traceability in logs.
+  - Implemented a `GetRequestIDFromContext()` function to retrieve the request ID from gRPC metadata, ensuring consistent traceability across service interactions.
+
+- Constants Refactor:
+  - Refactored the `constants` package to centralize the management of RabbitMQ exchanges, queues, and log-related constants.
+  - Defined constants for various log levels and log service names to maintain consistency and avoid hardcoded values across the codebase.
+
+- Database and Repository Interaction:
+  - Refactored the repository and service layers to include enhanced logging, which tracks key operations such as loan creation, updates, and return processes.
+  - Logs now capture database query executions, errors, and successful results, providing detailed context about each loan operation (including book details and user data).
+  - Additional logging was added during loan processes to track book availability checks, stock updates, and the publishing of notifications.
+
+- Enhanced Traceability and Error Handling:
+  - Structured logging was introduced across all gRPC methods, allowing for detailed log entries when requests are received, validated, or when errors occur.
+  - Error handling was improved with more specific log messages at each failure point, allowing for faster identification and resolution of issues.
+  - Request IDs were incorporated into logs to ensure that logs can be correlated across different services for improved debugging and monitoring.
+
+These changes collectively improve the overall observability, traceability, and error handling within the loan service, leveraging RabbitMQ for log and notification processing and enhancing the handling of gRPC metadata for better debugging and monitoring.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#221b7b7</div>
+                                        <div class="message">feat(book_service): enhance traceability with logging, RabbitMQ, and gRPC improvements
+
+- Centralized Logging:
+  - Implemented a logger with single-worker and multiple-worker modes, integrating it with the gRPC server methods for actions like create, update, fetch, and delete on the book service.
+  - Logs capture contextual details such as request IDs, caller locations, timestamps, and error information for improved traceability.
+  - Enhanced error handling with detailed log messages for validation and service-layer failures.
+
+- RabbitMQ Integration:
+  - Established RabbitMQ connection and integrated a publisher to route logs using `LogExchange` with direct exchange type for message routing.
+
+- gRPC Server Enhancements:
+  - Added structured logging across all gRPC methods, capturing request details, outcomes, and associated metadata.
+  - Updated `NewBookGRPCServer` to accept logger instances for consistent logging.
+
+- Database Interaction Refactor:
+  - Enhanced logging at key points in the repository and service layers, including detailed logs for create, fetch, update, and delete operations.
+  - Added location-based logging and validation checks for author and category existence.
+
+This commit improves the overall traceability, error handling, and debugging capabilities of the book management service through comprehensive logging, RabbitMQ integration, and gRPC enhancements.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75233af</div>
+                                        <div class="message">feat(user_service): comprehensive logging and RabbitMQ integration
+
+- Introduced centralized logging using a new `Logger` implementation:
+    - Added single-worker and multiple-worker logger for publishing logs to RabbitMQ.
+    - Integrated logging functionality in gRPC server methods and user service actions.
+    - Log messages include contextual information like message content, request IDs, caller locations (file &amp; line), and timestamps.
+- Enhanced logging across repository and service layers:
+    - Detailed logs for user actions (get by id, get by email, get list users) including database operations.
+    - Logs include error handling, success messages, and detailed context for better debugging.
+    - Improved service methods with logging for user management and tracking.
+- Updated RabbitMQ publisher initialization:
+    - Declared RabbitMQ exchanges for logging services.
+    - Added new constants for RabbitMQ configurations and log levels.
+- Improved error handling with contextual logging for better traceability during failures in user management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38469fa</div>
+                                        <div class="message">feat(category_service): comprehensive logging and RabbitMQ integration
+
+- Introduced centralized logging using a new `Logger` implementation:
+    - Added single-worker and multiple-worker logger for publishing logs to RabbitMQ.
+    - Integrated logging functionality in gRPC server methods and category service actions.
+    - Log messages include contextual information like message content, request IDs, caller locations (file &amp; line), and timestamps.
+- Enhanced logging across repository and service layers:
+    - Detailed logs for category actions (create, update, fetch, delete) and database operations.
+    - Logs include error handling, success messages, and detailed context for better debugging.
+    - Improved service methods with logging for category management and tracking.
+- Updated RabbitMQ publisher initialization:
+    - Declared RabbitMQ exchanges for logging services.
+    - Added new constants for RabbitMQ configurations and log levels.
+- Enhanced category record struct with JSON tags for logging.
+- Improved error handling with contextual logging for better traceability during failures in category management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#111ecde</div>
+                                        <div class="message">feat(author_service): comprehensive logging and RabbitMQ integration
+
+- Introduced centralized logging using a new `Logger` implementation:
+    - Added single-worker and multiple-worker logger for publishing logs to RabbitMQ.
+    - Integrated logging functionality in gRPC server methods and author service actions.
+    - Log messages include contextual information like message content, request IDs, caller locations (file &amp; line), and timestamps.
+- Enhanced logging across repository and service layers:
+    - Detailed logs for author actions (create, update, fetch, delete) and database operations.
+    - Logs include error handling, success messages, and detailed context for better debugging.
+    - Improved service methods with logging for author management and tracking.
+- Updated RabbitMQ publisher initialization:
+    - Declared RabbitMQ exchanges for logging and email services.
+    - Added new constants for RabbitMQ configurations and log levels.
+- Enhanced author record struct with JSON tags for logging.
+- Improved error handling with contextual logging for better traceability during failures in author management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f73435d</div>
+                                        <div class="message">refactor: update logger and context usage in gRPC client interactions
+
+- Updated gRPC client calls across various services (`auth_service`, `author_service`, `book_service`, `category_service`, `loan_service`) to use `utils.GetProtoContext(ctx)` for consistent context propagation.
+- Replaced `NewLoggerMultipleWorker` with `NewLoggerSingleWorker` in `server.go`. This change ensures that logging happens in a sequential manner, preventing race conditions between goroutines during logging and ensures that no goroutine will prematurely log before another, maintaining consistency in log entries.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a4f98f</div>
+                                        <div class="message">feat(auth_service): comprehensive logging enhancements and RabbitMQ integration
+
+- Introduced centralized logging using a new `Logger` implementation:
+    - Added a single-worker and multiple-worker logger for publishing logs to RabbitMQ.
+    - Integrated logging with gRPC server methods and auth service.
+    - Log messages include contextual information such as message itself, request IDs, caller locations (file &amp; line), and timestamps`.
+- Enhanced logging across repository and service layers:
+    - Detailed logs for database operations like user creation, retrieval, and verification updates.
+    - Improved logs for key flows such as registration, OTP generation, email verification, login, and token validation.
+    - Error handling logs now include context-specific details for better debugging.
+- Updated RabbitMQ publisher initialization:
+    - Introduced exchange and queue constants in `constants/constant.rabbitmq.go`.
+    - Declared additional exchanges for logs and emails.
+    - Refactored `AuthService` to simplify RabbitMQ publishing for OTPs.
+- Improved gRPC server functionality:
+    - Enhanced methods like `Register`, `SendOTP`, `VerifyEmail`, `Login`, and `ValidateToken` to include detailed logging and request ID extraction for traceability.
+- Updated `UserRecord` struct to include JSON tags for consistent API responses.
+- Added `models.LogMessage` to standardize log payloads.
+- Introduced constants for context keys in `constants/constant.context.go`.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df5c3a5</div>
+                                        <div class="message">refactor(api_gateway): enhance logger with multiple worker goroutines
+
+- Added `NewLoggerMultipleWorker` to initialize multiple worker goroutines to process log messages concurrently.
+- Updated `NewLoggerSingleWorker` to use a single worker for log processing when fewer resources are needed.
+- Adjusted `NewApp` in `server.go` to use the new `NewLoggerMultipleWorker` with 100 workers for more efficient log handling.
+- Refactored log message handling to allow for concurrent processing, improving overall throughput of log publishing to RabbitMQ.
+- Cleaned up deprecated code for the single worker and added appropriate logging for worker status and processing results.
+
+This update improves scalability of log processing by introducing multiple worker goroutines, making the system more efficient under high load.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">snykk/microservices-library-management</span>
                                     </div>
@@ -2460,54 +2639,6 @@ This service aims to centralize and simplify log management across microservices
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">snykk/go-microservices-udemy-course</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2a1b417</div>
-                                        <div class="message">feat: add Kubernetes configurations for ingress and front-end
-
-- Add `ingress.yml` to configure routing for:
-  - Front-end at `front-end.info`
-  - Broker-service at `broker-service.info`
-- Add Deployment and Service configurations for `front-end`:
-  - Deployment with resource limits and environment variable for `BROKER_URL`.
-  - Service exposing `front-end` on port 8081.
-- Update `makefile` with helper commands for:
-  - Managing ingress and services.
-  - Enabling Minikube ingress and setting up DNS with `minikube tunnel`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8220373</div>
-                                        <div class="message">feat: add Kubernetes deployment and service configurations
-
-- Added Kubernetes configuration files for:
-  - `authentication.yml`: Deployment and Service for the authentication service.
-  - `broker.yml`: Deployment and Service for the broker service.
-  - `listener.yml`: Deployment and Service for the listener service.
-  - `logger.yml`: Deployment and Service for the logger service, with ports for web, RPC, and gRPC.
-  - `mail.yml`: Deployment and Service for the mailer service with environment variables for email configuration.
-  - `mailhog.yml`: Deployment and Service for the MailHog testing tool.
-  - `mongo.yml`: Deployment and Service for MongoDB with environment variables for initialization.
-  - `rabbit.yml`: Deployment and Service for RabbitMQ with defined resource limits.
-
-- Updated `.gitignore` to include:
-  - `caddy_data`
-  - `caddy_config`</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2599,7 +2730,7 @@ This service aims to centralize and simplify log management across microservices
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2024, 11:19:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Dec 2024, 12:16:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

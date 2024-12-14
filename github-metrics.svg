@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1499" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1349" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.constant{color:#b44418}.token.number{color:#2777aa}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}.category,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.category{align-items:center;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -2319,6 +2319,45 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">snykk/Laracoffee</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ebda200</div>
+                                        <div class="message">Merge pull request #11 from snykk/dependabot/composer/league/commonmark-2.6.0
+
+Bump league/commonmark from 2.5.3 to 2.6.0</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c2393b</div>
+                                        <div class="message">Bump league/commonmark from 2.5.3 to 2.6.0
+
+Bumps [league/commonmark](https://github.com/thephpleague/commonmark) from 2.5.3 to 2.6.0.
+- [Release notes](https://github.com/thephpleague/commonmark/releases)
+- [Changelog](https://github.com/thephpleague/commonmark/blob/2.6/CHANGELOG.md)
+- [Commits](https://github.com/thephpleague/commonmark/compare/2.5.3...2.6.0)
+
+---
+updated-dependencies:
+- dependency-name: league/commonmark
+  dependency-type: indirect
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">snykk/microservices-library-management</span>
                                     </div>
@@ -2426,148 +2465,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">snykk/microservices-library-management</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ed38aca</div>
-                                        <div class="message">chore: add environment variables for service configurations and logging
-
-- Set common environment variables for all services, including:
-  - APP_PORT, READ_TIMEOUT, WRITE_TIMEOUT for service communication.
-  - AUTH_SERVICE_URL, AUTHOR_SERVICE_URL, BOOK_SERVICE_URL, etc. for inter-service communication.
-  - LOGGER_WORKER_TYPE, LOGGER_WORKER_NUM, LOGGER_WORKER_BUFFER_SIZE for logging configuration.
-  - Added Redis and JWT configuration for auth-service.
-  - Configured DSN for database connections across services.
-  - Added log path and MongoDB configuration for logger-service.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b600baf</div>
-                                        <div class="message">feat(user_service): implement centralized configuration management via `AppConfig`
-
-- Added new `configs` package to centralize application configuration loading via `viper`.
-- Introduced `InitializeAppConfig` function to load and validate configuration values from environment variables.
-- Replaced hardcoded environment variable accesses in `main.go` with the new configuration values.
-- Updated the logger initialization to support multiple worker types based on configuration.
-- Modified the gRPC server to dynamically bind to the configured port.
-- Added `viper` dependency for environment variable management.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e4df67</div>
-                                        <div class="message">feat(mailer_service): implement centralized configuration management via `AppConfig`
-
-- Introduced `configs` package to handle app configuration loading.
-- Replaced environment variable retrieval with configuration file using `viper`.
-- Moved RabbitMQ URL and email credentials file paths into configuration.
-- Added error handling to ensure required config values are loaded.
-- Updated main service initialization to load configurations during startup.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#54e1fbc</div>
-                                        <div class="message">feat(logger_service): implement centralized configuration management via `AppConfig`
-
-- Introduced a new `configs` package for centralized configuration management.
-- Moved RabbitMQ, MongoDB, and log path configurations to environment variables loaded via `viper`.
-- Replaced hardcoded values in `main.go` with values fetched from `configs.AppConfig`.
-- Added initialization logic in the `init()` function to load configurations at the start of the application.
-- Updated `go.mod` to include the `spf13/viper` package for environment variable handling.
-- Created a new `configs.app.go` file to define and initialize the application configuration.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44bda7a</div>
-                                        <div class="message">feat(loan_service): implement centralized configuration management via `AppConfig`
-
-- Added a new `configs` package to handle configuration loading using Viper for the loan service.
-- Moved environment variable parsing for GRPC_PORT, DSN, RABBITMQ_URL, and logger settings into the new config package.
-- Refactored `main.go` to load configurations from the `configs` package, improving maintainability and flexibility.
-- Updated logger initialization to support both single and multiple worker types based on the new configuration.
-- Introduced constants for RabbitMQ exchange and queue names, including new queues for loan and return notifications.
-- Refactored loan and return notification publishing to use the newly defined constants for RabbitMQ.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb49f39</div>
-                                        <div class="message">feat(category_service): implement centralized configuration management via `AppConfig`
-
-- Introduced a new `configs` package to centralize app configuration loading using `viper`.
-- Moved configuration handling (e.g., GRPC_PORT, RABBITMQ_URL) to the `InitializeAppConfig` function.
-- Replaced hardcoded environment variable fetching in `main.go` with values from `AppConfig`.
-- Updated RabbitMQ and DB connection handling to use `AppConfig` values.
-- Refactored logger initialization to use dynamic worker types based on configuration.
-- Replaced `os.Getenv` in `main.go` with the `viper` configuration approach for better scalability.
-- Added missing `viper` dependency in `go.mod` for configuration handling.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#938960a</div>
-                                        <div class="message">feat(book_service): implement centralized configuration management via `AppConfig`
-
-- Add `configs` package for centralized configuration management (`configs.app.go`).
-- Replace `os.Getenv` calls with `configs.AppConfig` for better structure and maintainability.
-- Introduce support for single and multiple logger worker types with configurable options.
-- Update `main.go` to initialize application configurations during startup.
-- Refactor database and RabbitMQ connection initialization to use centralized configuration.
-- Adjust gRPC server setup to utilize dynamic address formatting from configuration.
-- Add `constants/constant.logger.go` to define logger worker type constants.
-- Enhance logging setup to support multiple worker configurations and buffer size settings.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d3ab18b</div>
-                                        <div class="message">feat(author_service): implement centralized configuration management via `AppConfig`
-
-- Add `configs` package for centralized configuration handling (`configs.app.go`).
-- Replace `os.Getenv` calls with `configs.AppConfig` for better maintainability.
-- Add support for single and multiple logger worker types using configuration.
-- Update `main.go` to initialize app configurations during startup.
-- Introduce `constants/constant.logger.go` for logger worker type constants.
-- Refactor database and RabbitMQ connection initialization to use centralized configs.
-- Adjust gRPC server setup to utilize formatted address from configs.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#716237e</div>
-                                        <div class="message">feat(auth_service): implement centralized configuration management via `AppConfig`
-
-- Introduce `configs` package for centralized configuration handling.
-- Replace `os.Getenv` calls with values from `configs.AppConfig`.
-- Add `configs.app.go` to define and initialize application configuration.
-- Support single and multiple logger worker types based on configuration.
-- Update `jwt.go` to use `time.Duration` for token expiration settings.
-- Refactor `redis.go` to handle expiration directly as `time.Duration`.
-- Add constants for logger worker types in `constants/constant.logger.go`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72d2bed</div>
-                                        <div class="message">feat(api_gateway): implement centralized configuration management via `AppConfig`
-
-- Introduced a new `configs` package to centralize application configurations.
-- Added `InitializeAppConfig` function to load and validate environment variables.
-- Updated server and gRPC client setup to use `AppConfig` for configuration values (e.g., ports, timeouts, service URLs, RabbitMQ settings).
-- Enhanced logger initialization to support both single and multiple worker types with configurable buffer size.
-- Refactored redundant logging code to use a streamlined logging method.
-- Simplified and modularized constants related to RabbitMQ and logger worker types.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f0e0bd3</div>
-                                        <div class="message">feat: enhance graceful shutdown handling
-
-- Added AMQP connection, RabbitMQ publisher and logger instance to App struct
-- Implemented environment variable check for RABBITMQ_URL
-- Refactored to use named variables for RabbitMQ connection and publisher
-- Implemented deferred cleanup for AMQP connection, RabbitMQ publisher, and logger in Run method
-- Improved shutdown process with longer timeout and more detailed log messages
-- Updated RabbitMQ publisher's Close method to return an error</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2659,7 +2556,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2024, 05:14:27 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 06:14:35 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

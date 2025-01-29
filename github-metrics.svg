@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1299" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1536" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,footer{display:flex;justify-content:space-between}.field.language.details&gt;*{flex:1 1 0}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -298,6 +298,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 43 days
@@ -318,7 +324,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.39
+                            Average per day at ~1.41
                         </div>
                     </section>
                 </div>
@@ -2273,6 +2279,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 5.2727272727272725)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.727272727272727 0,3.727272727272727 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.727272727272727 1.7,4.727272727272727 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2286,6 +2297,421 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 12 commits in
+                                        <span class="repo">snykk/spring-microservices-udemy-course</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#40d4752</div>
+                                        <div class="message">feat(section_16): add Helm chart for Prometheus installation in Kubernetes Cluster
+
+- Introduced new Helm chart for deploying Kube-Prometheus stack under `section_16/helm/kube-prometheus`:
+  - `.helmignore`: Specifies files to exclude from Helm packaging.
+  - `Chart.yaml` and `Chart.lock`: Helm chart metadata and lock files.
+  - `README.md`: Documentation on deploying and configuring the Kube-Prometheus chart.
+  - `CHANGELOG.md`: Changelog for Kube-Prometheus chart updates.
+
+- Added various Kubernetes CRDs (Custom Resource Definitions) for Prometheus and related components:
+  - **Alertmanager**: CRDs for alertmanager configurations, alertmanagers, and related rules.
+  - **Prometheus**: CRDs for Prometheus agents, Prometheus instances, rules, scrape configs, and service monitors.
+
+- Included CRDs and helper scripts:
+  - `update_crds.sh`: Script to update CRDs in the Kubernetes cluster.
+
+- Full monitoring setup:
+  - **Alertmanager**: Configurations for alerting, including ingress, network policies, and service monitors.
+  - **Prometheus**: Core Prometheus setup with resources for scraping metrics, alerting rules, cluster roles, and Prometheus server deployment.
+  - **Exporter Configurations**: Pre-configured exporters for monitoring Kubernetes components like API server, controller manager, proxy, scheduler, and kubelet.
+  - **Prometheus Operator**: Setup for deploying Prometheus operators to manage Prometheus instances and alerting systems.
+  - **Blackbox Exporter**: Setup for testing endpoints via blackbox exporter.
+
+- Additional resources:
+  - **Secrets Management**: Includes TLS and secret management for secure communication.
+  - **ServiceMonitors**: Integrates with Prometheus for scraping metrics from various services.
+
+- Security features:
+  - **PodDisruptionBudgets (PDB)**: Ensures high availability during voluntary disruptions.
+  - **PSP (PodSecurityPolicies)**: Security configurations for managing pod security policies.
+
+- Monitoring rules and service discovery:
+  - **AdditionalScrapeJobs** and **AdditionalPrometheusRules**: Extend Prometheus scrape configurations and alerting rules.
+  - **Thanos Integration**: Configurations for integrating Prometheus with Thanos for long-term storage and querying.
+
+- `values.yaml`: Default values for customizing deployments, including settings for Prometheus, Alertmanager, and exporters.
+
+This commit sets up a comprehensive Helm chart for deploying a Kube-Prometheus stack, including monitoring, alerting, and exporters for a fully-featured Kubernetes monitoring solution.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e0fbe6</div>
+                                        <div class="message">feat(section_16): add Helm chart for Grafana installation in Kubernetes Cluster
+
+- Introduced new Helm chart for Grafana under `section_16/helm/grafana`:
+  - `.helmignore`: Specifies files to be excluded from Helm packaging.
+  - `Chart.yaml` and `Chart.lock`: Helm chart metadata and dependency lock file.
+  - Documentation:
+    - `README.md`: Instructions for deploying and configuring the Grafana chart.
+    - `CHANGELOG.md`: Version changelog for Grafana chart.
+
+- Added Grafana deployment components with Helm templates:
+  - **ConfigMap**:
+    - Contains Grafana configuration settings, including datasources and dashboard providers.
+  - **Dashboard Provider**:
+    - Configures external dashboard sources for Grafana.
+  - **Secret**:
+    - Includes sensitive information such as LDAP credentials and SMTP secrets.
+  - **Deployment**:
+    - Defines the main Grafana deployment including scaling, resources, and environment variables.
+  - **Ingress**:
+    - Configures ingress for external access to the Grafana UI.
+  - **NetworkPolicy**:
+    - Restricts access to the Grafana deployment for enhanced security.
+  - **PodDisruptionBudget (PDB)**:
+    - Ensures the availability of Grafana during voluntary disruptions.
+  - **PVC**:
+    - Defines persistent volume claims for storing Grafana data.
+  - **Service**:
+    - Configures a Kubernetes service to expose Grafana for internal communication.
+  - **Service Account**:
+    - Specifies permissions for Grafana to interact with other services in the cluster.
+  - **ServiceMonitor**:
+    - Integrates with Prometheus to scrape Grafana metrics.
+  - **TLS and Secret Management**:
+    - Includes TLS and SMTP secrets for secure communication and email configurations.
+
+- Security and RBAC:
+  - **Service Account** and **NetworkPolicy** to secure Grafana's interactions with other services.
+  - Configured **LDAP** secret for user authentication and **SMTP** secret for email notifications.
+
+- Monitoring:
+  - **ServiceMonitors** for Prometheus to collect Grafana metrics for monitoring.
+  - **PrometheusRules** to define alerting rules based on Grafana's health and performance metrics.
+
+- Configuration:
+  - `values.yaml`: Contains default values for scaling, storage, and configuration options for Grafana deployment.
+
+This commit introduces a fully-featured Helm chart for deploying Grafana with all essential components like dashboards, datasources, security settings, and monitoring integration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf4112c</div>
+                                        <div class="message">feat(section_16): add Helm chart for Grafana Tempo installation in Kubernetes Cluster
+
+- Introduced new Helm chart for Grafana Tempo under `section_16/helm/grafana-tempo`:
+  - `.helmignore`: Defines files to be ignored during Helm packaging.
+  - `Chart.yaml` and `Chart.lock`: Helm chart metadata and dependency lock file.
+  - Documentation:
+    - `README.md`: Usage instructions and chart configuration.
+    - `CHANGELOG.md`: Version changelog for Grafana Tempo chart.
+  - Dependencies:
+    - `common-2.20.5.tgz`: Shared utilities chart.
+    - `memcached-7.4.10.tgz`: Dependency for caching.
+
+- Added Grafana Tempo components with Helm templates:
+  - **Compactor**:
+    - Deployment, Service, PDB, NetworkPolicy, and ServiceMonitor for compacting tracing data.
+  - **Distributor**:
+    - Deployment, Service, PDB, NetworkPolicy, and ServiceMonitor for distributing trace data.
+  - **Ingester**:
+    - StatefulSet, Service, PDB, NetworkPolicy, and ServiceMonitor for ingesting and storing trace data.
+  - **Metrics Generator**:
+    - Deployment, Service, PDB, NetworkPolicy, and ServiceMonitor for generating and exposing Tempo metrics.
+  - **Query Frontend**:
+    - Deployment, Headless Service, Service, PDB, and ServiceMonitor for managing query traffic.
+  - **Querier**:
+    - Deployment, Service, PDB, NetworkPolicy, and ServiceMonitor for querying trace data.
+  - **Vulture**:
+    - Deployment, Service, PDB, NetworkPolicy, and ServiceMonitor for cleaning up old trace data.
+  - **Overrides ConfigMap**:
+    - ConfigMap for managing Tempo overrides and settings.
+  - **Tempo ConfigMap**:
+    - Centralized configuration for Tempo components.
+  - **Gossip Ring Headless Service**:
+    - Provides headless service for peer-to-peer communication.
+
+- Security and RBAC:
+  - **Service Account**: Managed permissions for Tempo components.
+  - Configured appropriate NetworkPolicies for secure communication between services.
+
+- Monitoring:
+  - **ServiceMonitors** for Prometheus to scrape metrics for Tempo components.
+  - **PDBs** for ensuring high availability during Pod disruptions.
+
+- Configuration:
+  - `values.yaml`: Contains default values for scaling, storage, and other configuration settings for Tempo deployment.
+
+This commit introduces a fully-functional Helm chart for deploying Grafana Tempo with a focus on trace collection, querying, storage, and monitoring. Includes detailed service configuration, security settings, and monitoring integration.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6bc0d1d</div>
+                                        <div class="message">feat(section_16): add Helm chart for Grafana Loki installation in Kubernetes Cluster
+
+- Introduced new Helm chart for Grafana Loki under `section_16/helm/grafana-loki`:
+  - `.helmignore`: Defined exclusions for Helm packaging.
+  - `Chart.yaml` and `Chart.lock`: Chart metadata and dependency lock file.
+  - Documentation:
+    - `README.md`: Usage and configuration details.
+    - `CHANGELOG.md`: Version change tracking.
+  - Dependencies:
+    - `common-2.20.5.tgz` for shared Helm utilities.
+    - `memcached-7.4.10.tgz` for caching.
+
+- Added Loki components with Helm templates:
+  - **Compactor**:
+    - Deployment, PVC, NetworkPolicy, Service, PDB, and ServiceMonitor for compacting logs.
+  - **Distributor**:
+    - Deployment, NetworkPolicy, Service, PDB, and ServiceMonitor for distributing log ingestion.
+  - **Index Gateway**:
+    - StatefulSet, NetworkPolicy, Service, PDB, and ServiceMonitor for index management.
+  - **Ingester**:
+    - StatefulSet, NetworkPolicy, Service, PDB, and ServiceMonitor for log ingestion and persistence.
+  - **Querier**:
+    - StatefulSet, NetworkPolicy, Service, PDB, and ServiceMonitor for log querying.
+  - **Query Frontend**:
+    - Deployment, Headless Service, NetworkPolicy, PDB, and ServiceMonitor for load balancing queries.
+  - **Query Scheduler**:
+    - Deployment, NetworkPolicy, Service, PDB for managing query scheduling.
+  - **Ruler**:
+    - StatefulSet, NetworkPolicy, Service, PDB, and ServiceMonitor for evaluating recording and alerting rules.
+  - **Table Manager**:
+    - Deployment, NetworkPolicy, Service, PDB, and ServiceMonitor for managing table schemas.
+
+- Added Promtail integration:
+  - **Promtail Templates**:
+    - DaemonSet, ClusterRole, ClusterRoleBinding, ServiceAccount, NetworkPolicy, and ServiceMonitor.
+    - Configured Promtail to collect logs and push to Loki.
+
+- Added gateway configurations:
+  - Gateway Deployment, Ingress, ConfigMap for HTTP routing, TLS secrets, and PDB.
+  - Gossip Ring Headless Service for intra-cluster communication.
+
+- Centralized configuration:
+  - `loki-configmap.yaml`: Default Loki configuration.
+  - `extra-list.yaml`: Additional customizable templates.
+
+- Monitoring and Networking:
+  - NetworkPolicy templates to restrict traffic for each component.
+  - ServiceMonitors for Prometheus to scrape metrics from Loki components.
+
+- Security and RBAC:
+  - TLS secrets for secure communication between components.
+  - Role-based access control for Promtail and related services.
+
+- Default configurations:
+  - `values.yaml`: Provided default values for Helm chart, including scaling, storage, and service configurations.
+
+This commit delivers a complete and modular Helm chart for Grafana Loki, enabling scalable and secure log aggregation, storage, and querying with Promtail integration and monitoring via Prometheus.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8710155</div>
+                                        <div class="message">feat(section_16): add Helm chart for Kafka installation in Kubernetes Cluster
+
+- Introduced new Helm chart for Kafka under `section_16/helm/kafka`:
+  - `.helmignore`: Defined files and directories to exclude from Helm packaging.
+  - `Chart.yaml` and `Chart.lock`: Added chart metadata and locked dependencies.
+  - Dependencies:
+    - `common-2.20.5.tgz` for shared Helm chart utilities.
+    - `zookeeper-13.4.9.tgz` for Kafka's ZooKeeper dependency.
+  - Documentation:
+    - `README.md` for usage and configuration details.
+    - `CHANGELOG.md` for tracking changes.
+
+- Added templates for Kafka deployment:
+  - Broker configurations:
+    - `broker/statefulset.yaml`: Configured Kafka brokers using StatefulSet.
+    - `broker/configmap.yaml` and `broker/config-secrets.yaml`: Added ConfigMap and Secrets for broker configurations.
+    - `broker/hpa.yaml` and `broker/vpa.yaml`: Horizontal and Vertical Pod Autoscaler configurations.
+    - `broker/svc-external-access.yaml` and `broker/svc-headless.yaml`: Service definitions for external and internal broker communication.
+    - `broker/pdb.yaml`: Pod Disruption Budget for Kafka brokers.
+  - Controller-eligible node configurations:
+    - `controller-eligible/statefulset.yaml`: StatefulSet for controller-eligible nodes.
+    - `controller-eligible/configmap.yaml` and `controller-eligible/config-secrets.yaml`: Configurations for controllers.
+    - `controller-eligible/hpa.yaml` and `controller-eligible/vpa.yaml`: Autoscaling configurations.
+    - `controller-eligible/svc-external-access.yaml` and `controller-eligible/svc-headless.yaml`: Services for external and internal controller communication.
+    - `controller-eligible/pdb.yaml`: Pod Disruption Budget for controllers.
+
+- Added monitoring and logging configurations:
+  - `log4j-configmap.yaml`: Log4j configuration for Kafka logging.
+  - Metrics monitoring:
+    - `metrics/jmx-configmap.yaml` and `metrics/jmx-servicemonitor.yaml`: JMX monitoring configuration.
+    - `metrics/prometheusrule.yaml`: Prometheus alerting rules for Kafka.
+    - `metrics/jmx-svc.yaml`: Service definition for JMX metrics.
+
+- Added security and networking:
+  - `tls-secret.yaml` and `provisioning/tls-secret.yaml`: TLS secret templates for secure communication.
+  - `networkpolicy.yaml`: Network policy for Kafka pods.
+  - `provisioning/serviceaccount.yaml`: Service account for provisioning jobs.
+  - RBAC configurations:
+    - `rbac/role.yaml`, `rbac/rolebinding.yaml`, and `rbac/serviceaccount.yaml`: Role-based access controls for Kafka operations.
+
+- Added provisioning and initialization:
+  - `provisioning/job.yaml`: Initialization job for Kafka provisioning.
+  - `scripts-configmap.yaml`: ConfigMap for custom initialization scripts.
+  - `extra-list.yaml`: Included additional template configurations.
+
+- Added default configurations:
+  - `values.yaml`: Default values for Kafka deployment, scaling, and monitoring.
+
+This commit introduces a comprehensive Helm chart for deploying and managing Kafka with scalability, monitoring, and secure configurations.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0396916</div>
+                                        <div class="message">feat(section_16): add Helm chart for Keycloak installation in Kubernetes Cluster
+
+- Added new Helm chart for Keycloak under `section_16/helm/keycloak`:
+  - Included `.helmignore` file to specify files and directories to exclude from packaging.
+  - Defined chart metadata in `Chart.yaml` and locked dependencies in `Chart.lock`.
+  - Added dependencies:
+    - `common-2.20.5.tgz` for shared templates and helpers.
+    - `postgresql-15.5.20.tgz` for PostgreSQL integration.
+
+- Added Helm templates for Keycloak deployment:
+  - StatefulSet configuration: `statefulset.yaml`.
+  - Service definitions:
+    - `service.yaml` for main Keycloak service.
+    - `metrics-service.yaml` for exposing metrics.
+    - `headless-service.yaml` for StatefulSet communication.
+  - ConfigMap and Secret templates:
+    - `configmap.yaml` for Keycloak configuration.
+    - `configmap-env-vars.yaml` for environment variables.
+    - `secrets.yaml` and `secret-external-db.yaml` for managing secrets.
+    - `init-scripts-configmap.yaml` for initializing scripts.
+    - `keycloak-config-cli-configmap.yaml` for Keycloak CLI configurations.
+  - Networking and security:
+    - `ingress.yaml` and `admin-ingress.yaml` for ingress rules.
+    - `networkpolicy.yaml` for network policies.
+    - `tls-secret.yaml` and `tls-pass-secret.yaml` for TLS configuration.
+  - Monitoring and scaling:
+    - `hpa.yaml` for horizontal pod autoscaling.
+    - `servicemonitor.yaml` for Prometheus ServiceMonitor.
+    - `prometheusrule.yaml` for Prometheus alerting rules.
+  - RBAC configurations:
+    - `role.yaml` and `rolebinding.yaml` for access controls.
+    - `serviceaccount.yaml` for service account creation.
+  - High availability and stability:
+    - `pdb.yaml` for Pod Disruption Budget.
+
+- Added documentation:
+  - `README.md` for chart usage and configuration details.
+  - `CHANGELOG.md` for tracking changes.
+
+- Created a default `values.yaml` file for customizable Keycloak deployment configurations.
+
+This commit introduces a fully-featured Helm chart to manage the deployment, configuration, and monitoring of Keycloak.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7dd5307</div>
+                                        <div class="message">feat(section_16): add Helm charts for production and QA environments
+
+- Created Helm chart for `prod-env` under `section_16/helm/environments/prod-env`:
+  - Added `.helmignore` to exclude unnecessary files during packaging.
+  - Defined chart metadata in `Chart.yaml` and locked dependencies in `Chart.lock`.
+  - Packaged microservice charts as dependencies:
+    - `accounts-0.1.0.tgz`
+    - `cards-0.1.0.tgz`
+    - `configserver-0.1.0.tgz`
+    - `eazybank-common-0.1.0.tgz`
+    - `eurekaserver-0.1.0.tgz`
+    - `gatewayserver-0.1.0.tgz`
+    - `loans-0.1.0.tgz`
+    - `message-0.1.0.tgz`
+  - Added `templates/configmap.yaml` for production-specific configuration.
+  - Created `values.yaml` for customizable deployment values in the production environment.
+
+- Created Helm chart for `qa-env` under `section_16/helm/environments/qa-env`:
+  - Added `.helmignore` to exclude unnecessary files during packaging.
+  - Defined chart metadata in `Chart.yaml` and locked dependencies in `Chart.lock`.
+  - Packaged microservice charts as dependencies:
+    - `accounts-0.1.0.tgz`
+    - `cards-0.1.0.tgz`
+    - `configserver-0.1.0.tgz`
+    - `eazybank-common-0.1.0.tgz`
+    - `eurekaserver-0.1.0.tgz`
+    - `gatewayserver-0.1.0.tgz`
+    - `loans-0.1.0.tgz`
+    - `message-0.1.0.tgz`
+  - Added `templates/configmap.yaml` for QA-specific configuration.
+  - Created `values.yaml` for customizable deployment values in the QA environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a03b76</div>
+                                        <div class="message">feat(section_16): add Helm chart for dev environment configuration
+
+- Created Helm chart for `dev-env` under `section_16/helm/environments/dev-env`:
+  - Added `.helmignore` to exclude unnecessary files during packaging.
+  - Defined chart metadata in `Chart.yaml` and locked dependencies in `Chart.lock`.
+  - Packaged microservice charts as dependencies:
+    - `accounts-0.1.0.tgz`
+    - `cards-0.1.0.tgz`
+    - `configserver-0.1.0.tgz`
+    - `eazybank-common-0.1.0.tgz`
+    - `eurekaserver-0.1.0.tgz`
+    - `gatewayserver-0.1.0.tgz`
+    - `loans-0.1.0.tgz`
+    - `message-0.1.0.tgz`
+  - Added `templates/configmap.yaml` for environment-specific configuration.
+  - Created `values.yaml` for customizable deployment values in the dev environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#86a99ae</div>
+                                        <div class="message">feat(section_16): add Helm charts for all services
+
+- Created Helm chart structure for multiple microservices under `section_16/helm/eazybank-services`:
+  - `accounts`
+  - `cards`
+  - `configserver`
+  - `eurekaserver`
+  - `gatewayserver`
+  - `loans`
+  - `message`
+- Added `.helmignore` files to ignore unnecessary files during packaging.
+- Defined metadata in `Chart.yaml` for each service.
+- Included `Chart.lock` and `charts/eazybank-common-0.1.0.tgz` to use the common Helm library.
+- Added `templates/deployment.yaml` and `templates/service.yaml` for Kubernetes resource configuration for each service.
+- Created `values.yaml` files for each service to allow customization of deployment values.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2a4631c</div>
+                                        <div class="message">feat(section_16): add template Helm chart for eazybank microservices
+
+- Created the Helm chart structure under `section_16/helm/eazybank-common`
+- Added `.helmignore` file to specify ignored files and directories
+- Defined metadata in `Chart.yaml` for eazybank-common Helm chart
+- Added `templates/configmap.yaml` for managing configuration data
+- Added `templates/deployment.yaml` for Kubernetes deployment configuration
+- Added `templates/service.yaml` for service configuration
+- Created an empty `values.yaml` for customizable Helm chart values</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c991a2</div>
+                                        <div class="message">chore(section_13): add .gitignore file for Docker Compose
+
+- Exclude `.data` files from version control in the `docker-compose` directory.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5e8d9f</div>
+                                        <div class="message">feat(section_15): add Kubernetes configurations for microservices
+
+Add Kubernetes configurations for:
+- Keycloak (Deployment and Service).
+- ConfigMap for eazybank settings.
+- Config Server (Deployment and Service).
+- Eureka Server (Deployment and Service).
+- Accounts service (Deployment and Service).
+- Loans service (Deployment and Service).
+- Cards service (Deployment and Service).
+- Gateway service (Deployment and Service).</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2375,22 +2801,6 @@ This commit adds the `@HttpCode` decorator to the `register` and `login` endpoin
                                     <div class="content">
                                         Created new
                       repository
-                                        <span class="repo">snykk/learn-jenkins</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">master</span>
-                                        in
                                         <span class="repo">snykk/learn-jenkins</span>
                                     </div>
                                 </div>
@@ -2527,7 +2937,7 @@ This commit adds the `@HttpCode` decorator to the `register` and `login` endpoin
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2025, 06:14:04 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2025, 08:08:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

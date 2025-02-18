@@ -28,11 +28,17 @@ jobs:
                   user: snykk
                   template: classic
                   base: header, activity, community, repositories, metadata
+                  base_hireable: true
+                  config_display: large
+                  extras_css: |
+                      .track .name { max-width: 200px !important; }
+                  optimize: svg
+                  experimental_features: --optimize-svg
                   config_timezone: Asia/Jakarta
-                  plugin_achievements: yes
-                  plugin_achievements_display: detailed
+                  plugin_achievements: true # Turn this on when https://github.com/lowlighter/metrics/issues/1479 is fixed.
+                  plugin_achievements_display: compact
                   plugin_achievements_secrets: yes
-                  plugin_achievements_threshold: S
+                  plugin_achievements_threshold: C
                   plugin_activity: yes
                   plugin_activity_days: 14
                   plugin_activity_filter: all
@@ -40,16 +46,36 @@ jobs:
                   plugin_activity_load: 300
                   plugin_activity_visibility: all
                   plugin_isocalendar: yes
-                  plugin_isocalendar_duration: half-year
+                  plugin_isocalendar_duration: full-year
+                  plugin_habits: yes
+                  plugin_habits_days: 30
+                  plugin_habits_facts: yes
+                  plugin_habits_from: 200
+                  plugin_habits_charts: yes
                   plugin_languages: yes
                   plugin_languages_analysis_timeout: 15
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
                   plugin_languages_ignored: jupyter notebook
-                  plugin_languages_limit: 10
+                  plugin_languages_limit: 8
                   plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api
-                  plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 14
                   plugin_languages_recent_load: 300
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
+                  plugin_lines: yes
+                  plugin_notable: yes
+                  plugin_pagespeed: no
+                  plugin_pagespeed_detailed: no
+                  plugin_pagespeed_url: .user.website
+                  plugin_contributors: yes
+                  plugin_contributors_base: "" # Base reference (commit, tag, branch, etc.)
+                  plugin_contributors_head: master # Head reference (commit, tag, branch, etc.)
+                  plugin_contributors_ignored: bot # Ignore "bot" user
+                  plugin_contributors_contributions: yes # Display number of contributions for each contributor
+                  plugin_reactions: yes
+                  plugin_reactions_display: absolute
+                  plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+                  plugin_reactions_limit: 200
+                  plugin_stars: yes
+                  plugin_stars_limit: 4

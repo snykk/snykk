@@ -73,9 +73,5 @@ jobs:
                   plugin_contributors_head: master # Head reference (commit, tag, branch, etc.)
                   plugin_contributors_ignored: bot # Ignore "bot" user
                   plugin_contributors_contributions: yes # Display number of contributions for each contributor
-                  plugin_reactions: yes
-                  plugin_reactions_display: absolute
-                  plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
-                  plugin_reactions_limit: 200
                   plugin_stars: yes
                   plugin_stars_limit: 4

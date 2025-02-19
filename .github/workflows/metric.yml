@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-    # Schedule updates (each hour)
+    # Schedule updates (each 6 hour)
     schedule: [{ cron: "0 */6 * * *" }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
@@ -12,7 +12,7 @@ jobs:
         permissions:
             contents: write
         steps:
-            - uses: lowlighter/metrics@v3.33
+            - uses: lowlighter/metrics@latest
               with:
                   # Your GitHub token
                   # The following scopes are required:
@@ -65,11 +65,11 @@ jobs:
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
                   plugin_languages_indepth: true
-                  plugin_lines: yes
+                  # plugin_lines: yes
                   # plugin_notable: yes
-                  plugin_pagespeed: no
-                  plugin_pagespeed_detailed: no
-                  plugin_pagespeed_url: .user.website
+                  # plugin_pagespeed: no
+                  # plugin_pagespeed_detailed: no
+                  # plugin_pagespeed_url: .user.website
                   # plugin_contributors: yes
                   # plugin_contributors_base: "" # Base reference (commit, tag, branch, etc.)
                   # plugin_contributors_head: master # Head reference (commit, tag, branch, etc.)

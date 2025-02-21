@@ -1,8 +1,8 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-    # Schedule updates (each 6 hour)
-    schedule: [{ cron: "0 */6 * * *" }]
+    # Schedule updates (each 2 hour)
+    schedule: [{ cron: "0 */2 * * *" }]
     # Lines below let you run workflow manually and on each commit
     workflow_dispatch:
     push: { branches: ["master", "main"] }
@@ -14,29 +14,19 @@ jobs:
         steps:
             - uses: lowlighter/metrics@latest
               with:
-                  # Your GitHub token
-                  # The following scopes are required:
-                  #  - public_access (default scope)
-                  # The following additional scopes may be required:
-                  #  - read:org      (for organization related metrics)
-                  #  - read:user     (for user related data)
-                  #  - read:packages (for some packages related data)
-                  #  - repo          (optional, if you want to include private repositories)
                   token: ${{ secrets.METRICS_TOKEN }}
 
                   # Options
                   user: snykk
                   template: classic
                   base: header, activity, community, repositories, metadata
-                  debug: true
-                  base_hireable: true
                   config_display: large
                   extras_css: |
                       .track .name { max-width: 200px !important; }
                   optimize: svg
                   experimental_features: --optimize-svg
                   config_timezone: Asia/Jakarta
-                  plugin_achievements: true # Turn this on when https://github.com/lowlighter/metrics/issues/1479 is fixed.
+                  plugin_achievements: yes
                   plugin_achievements_display: compact
                   plugin_achievements_secrets: yes
                   plugin_achievements_threshold: C
@@ -46,32 +36,35 @@ jobs:
                   plugin_activity_limit: 5
                   plugin_activity_load: 300
                   plugin_activity_visibility: all
-                  plugin_isocalendar: yes
-                  plugin_isocalendar_duration: full-year
                   plugin_habits: yes
-                  plugin_habits_days: 30
+                  plugin_habits_charts_type: classic
+                  plugin_habits_days: 14
                   plugin_habits_facts: yes
                   plugin_habits_from: 200
-                  plugin_habits_charts: yes
+                  plugin_habits_languages_limit: 8
+                  plugin_habits_languages_threshold: 0%
+                  plugin_isocalendar: yes
+                  plugin_isocalendar_duration: half-year
                   plugin_languages: yes
-                  # plugin_languages_analysis_timeout: 15
+                  plugin_languages_analysis_timeout: 15
+                  plugin_languages_analysis_timeout_repositories: 7.5
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
                   plugin_languages_ignored: jupyter notebook
                   plugin_languages_limit: 8
                   plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api
+                  plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 14
                   plugin_languages_recent_load: 300
                   plugin_languages_sections: most-used
                   plugin_languages_threshold: 0%
-                  plugin_languages_indepth: true
-                  # plugin_lines: yes
-                  # plugin_notable: yes
-                  # plugin_pagespeed: no
-                  # plugin_pagespeed_detailed: no
-                  # plugin_pagespeed_url: .user.website
-                  # plugin_contributors: yes
-                  # plugin_contributors_base: "" # Base reference (commit, tag, branch, etc.)
-                  # plugin_contributors_head: master # Head reference (commit, tag, branch, etc.)
-                  # plugin_contributors_ignored: bot # Ignore "bot" user
-                  # plugin_contributors_contributions: yes # Display number of contributions for each contributor
+                  plugin_leetcode: yes
+                  plugin_leetcode_limit_recent: 2
+                  plugin_leetcode_limit_skills: 10
+                  plugin_leetcode_sections: solved
+                  plugin_leetcode_user: .user.login
+                  plugin_lines: yes
+                  plugin_lines_history_limit: 1
+                  plugin_lines_repositories_limit: 4
+                  plugin_lines_sections: base
+                  plugin_traffic: yes

@@ -20,6 +20,7 @@ jobs:
                   user: snykk
                   template: classic
                   base: header, activity, community, repositories, metadata
+                  debug: true
                   config_display: large
                   extras_css: |
                       .track .name { max-width: 200px !important; }

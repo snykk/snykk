@@ -19,53 +19,54 @@ jobs:
                   # Options
                   user: snykk
                   template: classic
-                  base: header, activity, community, repositories, metadata
+                  base: header, repositories
                   debug: true
-                  config_display: large
-                  extras_css: |
-                      .track .name { max-width: 200px !important; }
-                  optimize: svg
-                  experimental_features: --optimize-svg
-                  config_timezone: Asia/Jakarta
-                  plugin_achievements: yes
-                  plugin_achievements_display: compact
-                  plugin_achievements_secrets: yes
-                  plugin_achievements_threshold: C
-                  plugin_activity: yes
-                  plugin_activity_days: 14
-                  plugin_activity_filter: all
-                  plugin_activity_limit: 5
-                  plugin_activity_load: 300
-                  plugin_activity_visibility: all
-                  plugin_habits: yes
-                  plugin_habits_charts_type: classic
-                  plugin_habits_days: 14
-                  plugin_habits_facts: yes
-                  plugin_habits_from: 200
-                  plugin_habits_languages_limit: 8
-                  plugin_habits_languages_threshold: 0%
-                  plugin_isocalendar: yes
-                  plugin_isocalendar_duration: full-year
-                  plugin_languages: yes
-                  plugin_languages_analysis_timeout: 60
-                  plugin_languages_analysis_timeout_repositories: 15
-                  plugin_languages_categories: markup, programming
-                  plugin_languages_colors: github
-                  plugin_languages_ignored: jupyter notebook
-                  plugin_languages_limit: 8
-                  plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api
-                  plugin_languages_recent_categories: markup, programming
-                  plugin_languages_recent_days: 14
-                  plugin_languages_recent_load: 300
-                  plugin_languages_sections: most-used
-                  plugin_languages_threshold: 0%
-                  plugin_leetcode: yes
-                  plugin_leetcode_limit_recent: 2
-                  plugin_leetcode_limit_skills: 10
-                  plugin_leetcode_sections: solved
-                  plugin_leetcode_user: snyk
-                  plugin_lines: yes
-                  plugin_lines_history_limit: 1
-                  plugin_lines_repositories_limit: 4
-                  plugin_lines_sections: base
+                  # base: header, activity, community, repositories, metadata
+                  # config_display: large
+                  # extras_css: |
+                  #     .track .name { max-width: 200px !important; }
+                  # optimize: svg
+                  # experimental_features: --optimize-svg
+                  # config_timezone: Asia/Jakarta
+                  # plugin_achievements: yes
+                  # plugin_achievements_display: compact
+                  # plugin_achievements_secrets: yes
+                  # plugin_achievements_threshold: C
+                  # plugin_activity: yes
+                  # plugin_activity_days: 14
+                  # plugin_activity_filter: all
+                  # plugin_activity_limit: 5
+                  # plugin_activity_load: 300
+                  # plugin_activity_visibility: all
+                  # plugin_habits: yes
+                  # plugin_habits_charts_type: classic
+                  # plugin_habits_days: 14
+                  # plugin_habits_facts: yes
+                  # plugin_habits_from: 200
+                  # plugin_habits_languages_limit: 8
+                  # plugin_habits_languages_threshold: 0%
+                  # plugin_isocalendar: yes
+                  # plugin_isocalendar_duration: full-year
+                  # plugin_languages: yes
+                  # plugin_languages_analysis_timeout: 60
+                  # plugin_languages_analysis_timeout_repositories: 15
+                  # plugin_languages_categories: markup, programming
+                  # plugin_languages_colors: github
+                  # plugin_languages_ignored: jupyter notebook
+                  # plugin_languages_limit: 8
+                  # plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api
+                  # plugin_languages_recent_categories: markup, programming
+                  # plugin_languages_recent_days: 14
+                  # plugin_languages_recent_load: 300
+                  # plugin_languages_sections: most-used
+                  # plugin_languages_threshold: 0%
+                  # plugin_leetcode: yes
+                  # plugin_leetcode_limit_recent: 2
+                  # plugin_leetcode_limit_skills: 10
+                  # plugin_leetcode_sections: solved
+                  # plugin_leetcode_user: snyk
+                  # plugin_lines: yes
+                  # plugin_lines_history_limit: 1
+                  # plugin_lines_repositories_limit: 4
+                  # plugin_lines_sections: base
                   # plugin_traffic: yes

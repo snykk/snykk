@@ -31,7 +31,7 @@
 </a>
 <a href="https://www.instagram.com/_najibfikri/"><image src="https://img.shields.io/badge/Instagram-%23df05a7.svg?style=flat&logo=instagram&logoColor=white">
 </a>
-<a href="mailto:najibfikri13@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white">
+<a href="mailto:najibfikri26@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white">
 </a>
 <a href="https://t.me/itsme_snykk"><image src="https://img.shields.io/badge/Telegram-%2339c7f3.svg?style=flat&logo=telegram&logoColor=white">
 </a>

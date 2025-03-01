@@ -4140,9 +4140,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.60473167916907 329"/>
-                    <text x="60" y="50" dominant-baseline="central">196</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3466</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.678097982708934 329"/>
+                    <text x="60" y="50" dominant-baseline="central">197</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3470</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -4150,9 +4150,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.073170731707314 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.04524361948956 329"/>
                     <text x="60" y="50" dominant-baseline="central">63</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/861</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/862</text>
                   </svg>
                   <span class="title">Easy</span>
                 </div>
@@ -4160,9 +4160,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.81565796779567 329"/>
-                    <text x="60" y="50" dominant-baseline="central">103</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1801</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.977260122018855 329"/>
+                    <text x="60" y="50" dominant-baseline="central">104</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1803</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -4170,9 +4170,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.276119402985074 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.260869565217392 329"/>
                     <text x="60" y="50" dominant-baseline="central">30</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/804</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/805</text>
                   </svg>
                   <span class="title">Hard</span>
                 </div>
@@ -4395,7 +4395,7 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 298k out of 236m repositories
+                      ranked 298k out of 227m repositories
                     </span>
                   
                   
@@ -4646,7 +4646,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 1 Mar 2025, 21:15:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 1 Mar 2025, 23:20:36 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 

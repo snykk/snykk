@@ -3199,8 +3199,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="18.960912981455063 329"/>
-                    <text x="60" y="50" dominant-baseline="central">202</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.05477888730385 329"/>
+                    <text x="60" y="50" dominant-baseline="central">203</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3505</text>
                   </svg>
                   <span class="title">All</span>
@@ -3209,8 +3209,8 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.580459770114945 329"/>
-                    <text x="60" y="50" dominant-baseline="central">65</text>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.958620689655174 329"/>
+                    <text x="60" y="50" dominant-baseline="central">66</text>
                     <text x="60" y="80" dominant-baseline="central" class="secondary">/870</text>
                   </svg>
                   <span class="title">Easy</span>
@@ -3454,7 +3454,7 @@
                   <span class="prefix"></span> Maintainer
                   
                     <span class="gh">
-                      ranked 299k out of 244m repositories
+                      ranked 299k out of 245m repositories
                     </span>
                   
                   
@@ -3672,7 +3672,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 30 Mar 2025, 11:23:43 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 30 Mar 2025, 13:25:49 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 

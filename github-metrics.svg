@@ -3036,9 +3036,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.3033323839362 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.28136557610242 329"/>
                     <text x="60" y="50" dominant-baseline="central">206</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3511</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3515</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -3046,9 +3046,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.929965556831228 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="24.90137614678899 329"/>
                     <text x="60" y="50" dominant-baseline="central">66</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/871</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/872</text>
                   </svg>
                   <span class="title">Easy</span>
                 </div>
@@ -3056,9 +3056,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.873695771554093 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="19.851892484914973 329"/>
                     <text x="60" y="50" dominant-baseline="central">110</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1821</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/1823</text>
                   </svg>
                   <span class="title">Medium</span>
                 </div>
@@ -3066,9 +3066,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.051282051282051 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.036585365853657 329"/>
                     <text x="60" y="50" dominant-baseline="central">30</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/819</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/820</text>
                   </svg>
                   <span class="title">Hard</span>
                 </div>
@@ -3137,7 +3137,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 12 Apr 2025, 21:16:15 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+          <span>Last updated 12 Apr 2025, 23:21:58 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
         </footer>
       
 

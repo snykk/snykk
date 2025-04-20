@@ -53,7 +53,7 @@ jobs:
                   plugin_languages_colors: github
                   plugin_languages_ignored: jupyter notebook
                   plugin_languages_limit: 8
-                  plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api
+                  plugin_languages_skipped: Minrose, laravel-presence-app, laravel-auth, laravel-todo-api, laravel-invoice-api, web-client-api, spring-microservices-udemy-course
                   plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 14
                   plugin_languages_recent_load: 300

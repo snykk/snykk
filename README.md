@@ -27,8 +27,6 @@
 </a>
 <a href="mailto:najibfikri26@gmail.com"><image src="https://img.shields.io/badge/Gmail-%2339c7f3.svg?style=flat&logo=gmail&logoColor=white">
 </a>
-<a href="https://t.me/itsme_snykk"><image src="https://img.shields.io/badge/Telegram-%2339c7f3.svg?style=flat&logo=telegram&logoColor=white">
-</a>
 <a href="https://discordapp.com/users/998541525317332994"><image src="https://img.shields.io/badge/Discord-%235662f6.svg?style=flat&logo=discord&logoColor=white">
 </a>
 

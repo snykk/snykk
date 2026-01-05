@@ -2986,9 +2986,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.29281767955801 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="21.2872172540768 329"/>
                     <text x="60" y="50" dominant-baseline="central">246</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3801</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3802</text>
                   </svg>
                   <span class="title">All</span>
                 </div>
@@ -3016,9 +3016,9 @@
                 <div class="category column">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.822939866369712 329"/>
+                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="12.808676307007786 329"/>
                     <text x="60" y="50" dominant-baseline="central">35</text>
-                    <text x="60" y="80" dominant-baseline="central" class="secondary">/898</text>
+                    <text x="60" y="80" dominant-baseline="central" class="secondary">/899</text>
                   </svg>
                   <span class="title">Hard</span>
                 </div>
@@ -3462,7 +3462,7 @@
           
             <span>These metrics do not include all private contributions</span>
           
-          <span>Last updated 6 Jan 2026, 01:22:01 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 6 Jan 2026, 03:17:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
